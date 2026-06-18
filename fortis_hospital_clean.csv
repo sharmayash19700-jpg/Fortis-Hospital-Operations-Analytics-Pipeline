@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Department,Doctor_Name,Admission_Type,Length_of_Stay_Days,Total_Bill_INR,Insurance_Provider,Readmitted_30_Days
+FOR-10000,52,Female,Cardiology,Dr. Mishra,Emergency,3,179211.0,Max Bupa,No
+FOR-10001,15,Male,Cardiology,Dr. Sharma,Elective,13,135494.0,Star Health,No
+FOR-10002,72,Male,Orthopedics,Dr. Sharma,Urgent,16,249941.0,Star Health,Yes
+FOR-10003,61,Female,Orthopedics,Dr. Verma,Emergency,8,23802.0,Max Bupa,No
+FOR-10004,21,Male,Oncology,Dr. Mishra,Urgent,15,231775.0,HDFC Ergo,No
+FOR-10005,83,Male,Neurology,Dr. Reddy,Emergency,17,186277.0,Max Bupa,Yes
+FOR-10006,87,Male,Pediatrics,Dr. Verma,Elective,17,311303.0,HDFC Ergo,No
+FOR-10007,75,Male,Oncology,Dr. Sharma,Urgent,13,26516.0,Self-Pay,No
+FOR-10008,75,Male,Orthopedics,Dr. Sharma,Emergency,17,327636.0,HDFC Ergo,No
+FOR-10009,88,Male,Pediatrics,Dr. Sharma,Emergency,6,306230.0,Self-Pay,No
+FOR-10010,24,Male,Orthopedics,Dr. Mishra,Elective,17,128758.0,Max Bupa,No
+FOR-10011,3,Male,Pediatrics,Dr. Mishra,Urgent,16,45480.0,HDFC Ergo,No
+FOR-10012,22,Male,Neurology,Dr. Verma,Emergency,14,198163.0,Self-Pay,No
+FOR-10013,53,Male,Oncology,Dr. Reddy,Urgent,13,143023.0,Self-Pay,No
+FOR-10014,2,Female,Pediatrics,Dr. Verma,Emergency,6,387339.0,Self-Pay,No
+FOR-10015,88,Female,Cardiology,Dr. Gupta,Urgent,3,193838.0,Star Health,No
+FOR-10016,30,Male,Cardiology,Dr. Sharma,Urgent,14,315881.0,Max Bupa,No
+FOR-10017,38,Female,Pediatrics,Dr. Sharma,Elective,14,286409.0,Self-Pay,No
+FOR-10018,2,Female,Pediatrics,Dr. Sharma,Elective,15,129165.0,HDFC Ergo,No
+FOR-10019,64,Male,Pediatrics,Dr. Verma,Elective,8,134501.0,Self-Pay,No
+FOR-10020,60,Male,Cardiology,Dr. Verma,Elective,15,264329.0,Star Health,Yes
+FOR-10021,21,Male,Cardiology,Dr. Sharma,Emergency,13,348134.0,Max Bupa,No
+FOR-10022,33,Female,Pediatrics,Dr. Verma,Emergency,17,499933.0,Star Health,No
+FOR-10023,76,Female,Orthopedics,Dr. Mishra,Emergency,3,292530.0,Star Health,No
+FOR-10024,58,Male,Orthopedics,Dr. Mishra,Elective,6,381862.0,Star Health,No
+FOR-10025,22,Male,Neurology,Dr. Verma,Emergency,5,314569.0,HDFC Ergo,No
+FOR-10026,89,Male,Oncology,Dr. Sharma,Elective,17,136635.0,Max Bupa,Yes
+FOR-10027,49,Female,Orthopedics,Dr. Verma,Urgent,2,189326.0,Max Bupa,No
+FOR-10028,59,Female,Cardiology,Dr. Verma,Emergency,15,257599.0,HDFC Ergo,No
+FOR-10029,42,Female,Orthopedics,Dr. Verma,Elective,5,68634.0,Max Bupa,No
+FOR-10030,60,Female,Neurology,Dr. Gupta,Elective,6,494933.0,Star Health,No
+FOR-10031,80,Male,Neurology,Dr. Mishra,Urgent,6,193734.0,Max Bupa,No
+FOR-10032,15,Male,Oncology,Dr. Reddy,Urgent,18,364132.0,HDFC Ergo,Yes
+FOR-10033,62,Male,Orthopedics,Dr. Reddy,Urgent,18,279682.0,Star Health,No
+FOR-10034,62,Male,Cardiology,Dr. Gupta,Urgent,4,383481.0,HDFC Ergo,No
+FOR-10035,47,Female,Cardiology,Dr. Verma,Emergency,17,233599.0,Self-Pay,Yes
+FOR-10036,62,Female,Pediatrics,Dr. Gupta,Urgent,14,252919.0,Star Health,No
+FOR-10037,51,Male,Cardiology,Dr. Gupta,Elective,14,483668.0,Star Health,No
+FOR-10038,55,Male,Oncology,Dr. Sharma,Emergency,13,231775.0,Max Bupa,No
+FOR-10039,64,Female,Oncology,Dr. Mishra,Urgent,7,499607.0,Star Health,Yes
+FOR-10040,3,Male,Cardiology,Dr. Reddy,Emergency,12,423797.0,HDFC Ergo,Yes
+FOR-10041,51,Female,Cardiology,Dr. Verma,Elective,15,82443.0,Max Bupa,Yes
+FOR-10042,7,Male,Pediatrics,Dr. Reddy,Emergency,19,306568.0,Self-Pay,No
+FOR-10043,21,Male,Cardiology,Dr. Reddy,Elective,11,365988.0,HDFC Ergo,No
+FOR-10044,73,Male,Pediatrics,Dr. Mishra,Elective,15,271139.0,Self-Pay,No
+FOR-10045,39,Male,Pediatrics,Dr. Reddy,Elective,12,56505.0,Self-Pay,Yes
+FOR-10046,18,Male,Cardiology,Dr. Reddy,Elective,3,117478.0,Self-Pay,No
+FOR-10047,4,Male,Neurology,Dr. Gupta,Emergency,17,77699.0,Star Health,No
+FOR-10048,89,Male,Neurology,Dr. Mishra,Urgent,3,435173.0,HDFC Ergo,No
+FOR-10049,60,Female,Pediatrics,Dr. Sharma,Emergency,19,433680.0,HDFC Ergo,Yes
+FOR-10050,14,Female,Cardiology,Dr. Verma,Elective,4,391156.0,Star Health,No
+FOR-10051,9,Female,Neurology,Dr. Reddy,Urgent,3,169721.0,Max Bupa,No
+FOR-10052,53,Female,Cardiology,Dr. Verma,Urgent,16,450281.0,Self-Pay,No
+FOR-10053,2,Female,Cardiology,Dr. Sharma,Elective,12,311902.0,HDFC Ergo,Yes
+FOR-10054,84,Male,Cardiology,Dr. Verma,Elective,8,151668.0,Star Health,No
+FOR-10055,60,Male,Orthopedics,Dr. Sharma,Urgent,17,293518.0,Self-Pay,No
+FOR-10056,71,Female,Cardiology,Dr. Gupta,Urgent,7,133686.0,Max Bupa,No
+FOR-10057,44,Male,Orthopedics,Dr. Reddy,Elective,11,280919.0,Max Bupa,No
+FOR-10058,8,Female,Pediatrics,Dr. Sharma,Emergency,18,304532.0,Self-Pay,No
+FOR-10059,47,Female,Neurology,Dr. Verma,Emergency,1,400944.0,Max Bupa,No
+FOR-10060,35,Male,Neurology,Dr. Reddy,Emergency,3,298173.0,HDFC Ergo,No
+FOR-10061,78,Male,Neurology,Dr. Gupta,Elective,4,98981.0,HDFC Ergo,No
+FOR-10062,81,Male,Neurology,Dr. Reddy,Emergency,13,330783.0,HDFC Ergo,Yes
+FOR-10063,36,Female,Neurology,Dr. Sharma,Elective,6,129010.0,Max Bupa,No
+FOR-10064,50,Male,Neurology,Dr. Gupta,Emergency,14,422861.0,HDFC Ergo,Yes
+FOR-10065,4,Female,Neurology,Dr. Verma,Emergency,5,46105.0,Star Health,No
+FOR-10066,2,Female,Pediatrics,Dr. Gupta,Urgent,16,421884.0,HDFC Ergo,No
+FOR-10067,6,Female,Cardiology,Dr. Gupta,Elective,15,274021.0,HDFC Ergo,No
+FOR-10068,54,Male,Oncology,Dr. Mishra,Emergency,15,162032.0,Max Bupa,No
+FOR-10069,4,Male,Orthopedics,Dr. Gupta,Urgent,4,141519.0,HDFC Ergo,No
+FOR-10070,54,Female,Oncology,Dr. Gupta,Emergency,8,157429.0,Self-Pay,No
+FOR-10071,63,Male,Oncology,Dr. Reddy,Elective,16,472820.0,Star Health,No
+FOR-10072,18,Male,Cardiology,Dr. Verma,Elective,16,379883.0,Max Bupa,No
+FOR-10073,44,Male,Cardiology,Dr. Reddy,Emergency,4,328940.0,Star Health,Yes
+FOR-10074,34,Female,Cardiology,Dr. Reddy,Urgent,13,292948.0,Self-Pay,No
+FOR-10075,74,Female,Neurology,Dr. Sharma,Elective,13,142732.0,Max Bupa,No
+FOR-10076,62,Male,Pediatrics,Dr. Reddy,Elective,2,160698.0,Max Bupa,No
+FOR-10077,14,Female,Neurology,Dr. Mishra,Emergency,3,174204.0,HDFC Ergo,No
+FOR-10078,48,Male,Pediatrics,Dr. Mishra,Emergency,8,285095.0,Star Health,No
+FOR-10079,15,Male,Pediatrics,Dr. Sharma,Urgent,15,414665.0,Self-Pay,No
+FOR-10080,72,Male,Oncology,Dr. Verma,Emergency,11,296209.0,Self-Pay,No
+FOR-10081,78,Male,Oncology,Dr. Verma,Elective,9,378647.0,Max Bupa,Yes
+FOR-10082,87,Female,Pediatrics,Dr. Reddy,Elective,7,120072.0,HDFC Ergo,No
+FOR-10083,62,Female,Pediatrics,Dr. Reddy,Elective,13,155202.0,Max Bupa,No
+FOR-10084,40,Female,Neurology,Dr. Reddy,Emergency,2,104360.0,Max Bupa,No
+FOR-10085,85,Male,Neurology,Dr. Verma,Emergency,8,77287.0,Max Bupa,No
+FOR-10086,80,Male,Oncology,Dr. Gupta,Elective,7,253009.0,Max Bupa,No
+FOR-10087,82,Male,Cardiology,Dr. Mishra,Emergency,12,197774.0,Self-Pay,Yes
+FOR-10088,53,Female,Pediatrics,Dr. Gupta,Emergency,19,183065.0,Self-Pay,No
+FOR-10089,24,Male,Neurology,Dr. Gupta,Emergency,7,177947.0,Max Bupa,No
+FOR-10090,26,Female,Oncology,Dr. Verma,Elective,10,261356.0,Max Bupa,No
+FOR-10091,89,Female,Neurology,Dr. Gupta,Urgent,16,152126.0,HDFC Ergo,Yes
+FOR-10092,60,Female,Pediatrics,Dr. Sharma,Emergency,3,245881.0,Max Bupa,No
+FOR-10093,41,Female,Pediatrics,Dr. Reddy,Emergency,10,122357.0,Self-Pay,Yes
+FOR-10094,29,Female,Orthopedics,Dr. Sharma,Emergency,6,279682.0,Star Health,No
+FOR-10095,15,Female,Cardiology,Dr. Mishra,Elective,18,222440.0,Self-Pay,No
+FOR-10096,45,Male,Orthopedics,Dr. Reddy,Elective,18,279682.0,HDFC Ergo,No
+FOR-10097,65,Male,Oncology,Dr. Gupta,Elective,5,231775.0,Self-Pay,Yes
+FOR-10098,89,Female,Neurology,Dr. Mishra,Elective,7,365532.0,Star Health,No
+FOR-10099,71,Female,Oncology,Dr. Reddy,Elective,2,366300.0,Max Bupa,No
+FOR-10100,9,Male,Pediatrics,Dr. Gupta,Urgent,11,174379.0,Star Health,No
+FOR-10101,88,Female,Orthopedics,Dr. Sharma,Urgent,13,259159.0,Max Bupa,No
+FOR-10102,1,Female,Orthopedics,Dr. Reddy,Emergency,5,213159.0,Max Bupa,Yes
+FOR-10103,8,Male,Orthopedics,Dr. Gupta,Emergency,6,325066.0,Self-Pay,No
+FOR-10104,88,Female,Oncology,Dr. Sharma,Emergency,14,209152.0,Self-Pay,No
+FOR-10105,63,Female,Pediatrics,Dr. Mishra,Emergency,12,370492.0,Self-Pay,No
+FOR-10106,11,Female,Neurology,Dr. Mishra,Urgent,4,94335.0,HDFC Ergo,No
+FOR-10107,81,Male,Neurology,Dr. Mishra,Elective,6,303456.0,Self-Pay,No
+FOR-10108,8,Male,Oncology,Dr. Mishra,Emergency,10,81985.0,HDFC Ergo,No
+FOR-10109,35,Male,Orthopedics,Dr. Verma,Elective,18,145744.0,Self-Pay,Yes
+FOR-10110,35,Female,Cardiology,Dr. Reddy,Elective,15,266713.0,Max Bupa,No
+FOR-10111,33,Female,Oncology,Dr. Reddy,Emergency,8,465824.0,HDFC Ergo,No
+FOR-10112,5,Male,Oncology,Dr. Verma,Emergency,9,498178.0,Star Health,No
+FOR-10113,41,Female,Pediatrics,Dr. Gupta,Elective,5,378107.0,HDFC Ergo,No
+FOR-10114,28,Female,Neurology,Dr. Gupta,Elective,10,186349.0,HDFC Ergo,No
+FOR-10115,7,Female,Oncology,Dr. Mishra,Emergency,6,46551.0,Star Health,Yes
+FOR-10116,73,Female,Oncology,Dr. Sharma,Emergency,16,104813.0,HDFC Ergo,Yes
+FOR-10117,72,Female,Orthopedics,Dr. Gupta,Elective,3,464813.0,Max Bupa,Yes
+FOR-10118,12,Male,Orthopedics,Dr. Sharma,Emergency,10,378169.0,Self-Pay,Yes
+FOR-10119,34,Female,Cardiology,Dr. Reddy,Elective,11,401486.0,Star Health,No
+FOR-10120,33,Male,Pediatrics,Dr. Sharma,Elective,11,191284.0,Self-Pay,No
+FOR-10121,48,Female,Cardiology,Dr. Reddy,Emergency,17,24637.0,Max Bupa,No
+FOR-10122,23,Male,Orthopedics,Dr. Verma,Urgent,4,320402.0,Star Health,No
+FOR-10123,62,Female,Neurology,Dr. Verma,Elective,4,443909.0,Self-Pay,No
+FOR-10124,88,Male,Orthopedics,Dr. Mishra,Emergency,17,418040.0,Self-Pay,No
+FOR-10125,37,Female,Pediatrics,Dr. Gupta,Elective,9,144553.0,Max Bupa,Yes
+FOR-10126,44,Male,Orthopedics,Dr. Mishra,Elective,19,41950.0,Self-Pay,No
+FOR-10127,86,Female,Pediatrics,Dr. Reddy,Elective,5,431704.0,Max Bupa,No
+FOR-10128,35,Male,Pediatrics,Dr. Mishra,Emergency,6,142870.0,HDFC Ergo,No
+FOR-10129,65,Female,Pediatrics,Dr. Sharma,Urgent,3,15215.0,Max Bupa,No
+FOR-10130,47,Male,Pediatrics,Dr. Reddy,Elective,1,382747.0,HDFC Ergo,No
+FOR-10131,78,Male,Pediatrics,Dr. Verma,Emergency,16,288667.0,Star Health,Yes
+FOR-10132,3,Female,Neurology,Dr. Gupta,Emergency,11,484116.0,Self-Pay,No
+FOR-10133,1,Female,Cardiology,Dr. Reddy,Emergency,13,345833.0,Max Bupa,No
+FOR-10134,5,Male,Oncology,Dr. Reddy,Urgent,10,38834.0,Max Bupa,Yes
+FOR-10135,14,Female,Cardiology,Dr. Sharma,Emergency,3,311618.0,Self-Pay,No
+FOR-10136,27,Male,Pediatrics,Dr. Gupta,Emergency,9,271139.0,Self-Pay,No
+FOR-10137,9,Male,Neurology,Dr. Verma,Urgent,12,287544.0,Star Health,No
+FOR-10138,79,Male,Orthopedics,Dr. Reddy,Emergency,14,402355.0,Star Health,No
+FOR-10139,15,Female,Neurology,Dr. Reddy,Emergency,1,25345.0,Max Bupa,No
+FOR-10140,42,Male,Pediatrics,Dr. Sharma,Emergency,18,48896.0,Star Health,No
+FOR-10141,77,Male,Neurology,Dr. Mishra,Emergency,17,493646.0,HDFC Ergo,No
+FOR-10142,51,Female,Neurology,Dr. Verma,Emergency,9,306043.0,Star Health,No
+FOR-10143,63,Female,Pediatrics,Dr. Gupta,Elective,9,305373.0,Star Health,No
+FOR-10144,52,Female,Neurology,Dr. Reddy,Emergency,10,282727.0,Max Bupa,No
+FOR-10145,4,Female,Oncology,Dr. Reddy,Emergency,19,413113.0,HDFC Ergo,No
+FOR-10146,23,Male,Oncology,Dr. Verma,Elective,15,86537.0,Star Health,Yes
+FOR-10147,15,Male,Neurology,Dr. Mishra,Elective,5,255489.0,HDFC Ergo,No
+FOR-10148,43,Male,Orthopedics,Dr. Reddy,Elective,15,412783.0,HDFC Ergo,No
+FOR-10149,29,Male,Pediatrics,Dr. Verma,Elective,2,89807.0,HDFC Ergo,No
+FOR-10150,36,Female,Oncology,Dr. Sharma,Emergency,13,144648.0,Self-Pay,No
+FOR-10151,13,Male,Orthopedics,Dr. Mishra,Elective,16,389796.0,Self-Pay,No
+FOR-10152,32,Male,Neurology,Dr. Gupta,Elective,15,485455.0,Self-Pay,No
+FOR-10153,71,Female,Orthopedics,Dr. Reddy,Emergency,10,159401.0,Self-Pay,No
+FOR-10154,59,Male,Cardiology,Dr. Verma,Urgent,14,247117.0,Max Bupa,No
+FOR-10155,86,Male,Oncology,Dr. Sharma,Emergency,10,263780.0,Star Health,No
+FOR-10156,28,Male,Neurology,Dr. Gupta,Elective,14,348936.0,Self-Pay,No
+FOR-10157,66,Male,Pediatrics,Dr. Verma,Emergency,9,408444.0,Max Bupa,No
+FOR-10158,42,Male,Neurology,Dr. Verma,Elective,14,498498.0,Star Health,No
+FOR-10159,45,Male,Pediatrics,Dr. Gupta,Elective,3,228286.0,Self-Pay,Yes
+FOR-10160,62,Female,Neurology,Dr. Sharma,Urgent,16,52052.0,Star Health,No
+FOR-10161,57,Female,Orthopedics,Dr. Sharma,Emergency,2,465985.0,Self-Pay,No
+FOR-10162,6,Male,Orthopedics,Dr. Mishra,Elective,10,61032.0,Max Bupa,No
+FOR-10163,28,Male,Orthopedics,Dr. Reddy,Elective,3,496937.0,HDFC Ergo,No
+FOR-10164,28,Female,Cardiology,Dr. Gupta,Elective,11,310830.0,HDFC Ergo,No
+FOR-10165,44,Male,Pediatrics,Dr. Gupta,Elective,11,354125.0,Star Health,No
+FOR-10166,84,Male,Orthopedics,Dr. Gupta,Elective,13,113802.0,Max Bupa,No
+FOR-10167,30,Male,Cardiology,Dr. Sharma,Elective,7,471477.0,HDFC Ergo,No
+FOR-10168,62,Female,Pediatrics,Dr. Reddy,Emergency,17,411025.0,Self-Pay,Yes
+FOR-10169,75,Male,Neurology,Dr. Mishra,Elective,2,249337.0,HDFC Ergo,No
+FOR-10170,89,Female,Cardiology,Dr. Verma,Emergency,12,187857.0,Star Health,No
+FOR-10171,62,Male,Oncology,Dr. Verma,Urgent,10,444763.0,Star Health,No
+FOR-10172,1,Female,Cardiology,Dr. Gupta,Elective,18,319962.0,Max Bupa,No
+FOR-10173,27,Female,Cardiology,Dr. Reddy,Urgent,11,257599.0,Star Health,No
+FOR-10174,62,Male,Pediatrics,Dr. Sharma,Emergency,16,349071.0,HDFC Ergo,No
+FOR-10175,77,Female,Neurology,Dr. Reddy,Urgent,17,211753.0,HDFC Ergo,No
+FOR-10176,3,Male,Oncology,Dr. Reddy,Urgent,19,356609.0,HDFC Ergo,Yes
+FOR-10177,70,Female,Orthopedics,Dr. Sharma,Elective,18,235934.0,HDFC Ergo,No
+FOR-10178,72,Male,Orthopedics,Dr. Gupta,Elective,3,241599.0,Max Bupa,No
+FOR-10179,27,Male,Cardiology,Dr. Reddy,Emergency,16,128221.0,Self-Pay,No
+FOR-10180,9,Female,Pediatrics,Dr. Verma,Urgent,6,271139.0,Self-Pay,Yes
+FOR-10181,62,Male,Pediatrics,Dr. Sharma,Elective,12,141457.0,Max Bupa,No
+FOR-10182,37,Male,Orthopedics,Dr. Mishra,Emergency,11,293720.0,Star Health,Yes
+FOR-10183,51,Female,Oncology,Dr. Gupta,Emergency,15,134875.0,Self-Pay,No
+FOR-10184,44,Male,Neurology,Dr. Sharma,Urgent,15,316549.0,Star Health,Yes
+FOR-10185,24,Male,Oncology,Dr. Mishra,Urgent,16,371144.0,Self-Pay,No
+FOR-10186,79,Female,Neurology,Dr. Mishra,Urgent,10,481995.0,Star Health,No
+FOR-10187,59,Female,Orthopedics,Dr. Reddy,Elective,12,46601.0,Max Bupa,No
+FOR-10188,32,Male,Neurology,Dr. Reddy,Emergency,13,345090.0,HDFC Ergo,No
+FOR-10189,88,Male,Pediatrics,Dr. Reddy,Emergency,4,475572.0,Star Health,Yes
+FOR-10190,52,Female,Cardiology,Dr. Sharma,Emergency,7,329260.0,HDFC Ergo,No
+FOR-10191,62,Female,Cardiology,Dr. Sharma,Emergency,2,119186.0,Star Health,No
+FOR-10192,58,Male,Orthopedics,Dr. Gupta,Emergency,15,340038.0,Star Health,No
+FOR-10193,52,Female,Pediatrics,Dr. Reddy,Emergency,8,180707.0,Star Health,Yes
+FOR-10194,12,Male,Oncology,Dr. Mishra,Elective,7,231775.0,Star Health,No
+FOR-10195,39,Male,Pediatrics,Dr. Verma,Urgent,15,71754.0,Star Health,No
+FOR-10196,2,Male,Cardiology,Dr. Gupta,Elective,14,244047.0,HDFC Ergo,No
+FOR-10197,3,Male,Cardiology,Dr. Sharma,Urgent,8,107850.0,Star Health,Yes
+FOR-10198,56,Male,Pediatrics,Dr. Gupta,Elective,12,386909.0,HDFC Ergo,No
+FOR-10199,81,Female,Pediatrics,Dr. Gupta,Emergency,13,231191.0,Max Bupa,No
+FOR-10200,59,Female,Cardiology,Dr. Gupta,Emergency,11,369835.0,Self-Pay,No
+FOR-10201,2,Female,Oncology,Dr. Gupta,Emergency,17,53871.0,Star Health,No
+FOR-10202,2,Female,Orthopedics,Dr. Verma,Emergency,17,208946.0,Self-Pay,No
+FOR-10203,54,Male,Orthopedics,Dr. Reddy,Elective,4,485949.0,HDFC Ergo,No
+FOR-10204,87,Male,Pediatrics,Dr. Mishra,Emergency,8,306655.0,Max Bupa,No
+FOR-10205,1,Male,Orthopedics,Dr. Gupta,Emergency,5,279682.0,Max Bupa,No
+FOR-10206,19,Male,Cardiology,Dr. Gupta,Emergency,16,457037.0,Max Bupa,No
+FOR-10207,2,Female,Cardiology,Dr. Gupta,Urgent,4,342920.0,Self-Pay,Yes
+FOR-10208,53,Male,Pediatrics,Dr. Reddy,Elective,15,264200.0,HDFC Ergo,No
+FOR-10209,44,Male,Pediatrics,Dr. Sharma,Elective,12,216239.0,Star Health,No
+FOR-10210,32,Female,Pediatrics,Dr. Sharma,Emergency,5,483351.0,Star Health,No
+FOR-10211,70,Female,Oncology,Dr. Verma,Elective,16,321606.0,HDFC Ergo,No
+FOR-10212,32,Female,Orthopedics,Dr. Sharma,Elective,14,469598.0,Self-Pay,Yes
+FOR-10213,68,Female,Pediatrics,Dr. Gupta,Elective,10,498410.0,Star Health,No
+FOR-10214,55,Male,Neurology,Dr. Gupta,Urgent,7,249453.0,HDFC Ergo,No
+FOR-10215,75,Male,Neurology,Dr. Gupta,Emergency,13,47574.0,Star Health,No
+FOR-10216,56,Female,Cardiology,Dr. Verma,Urgent,5,257599.0,Max Bupa,No
+FOR-10217,17,Male,Orthopedics,Dr. Gupta,Urgent,3,450126.0,Star Health,Yes
+FOR-10218,38,Male,Pediatrics,Dr. Sharma,Emergency,15,219603.0,Self-Pay,No
+FOR-10219,24,Male,Neurology,Dr. Reddy,Elective,4,171258.0,HDFC Ergo,Yes
+FOR-10220,69,Female,Orthopedics,Dr. Reddy,Urgent,15,168885.0,Self-Pay,No
+FOR-10221,70,Male,Cardiology,Dr. Mishra,Emergency,14,224884.0,HDFC Ergo,No
+FOR-10222,86,Female,Oncology,Dr. Sharma,Elective,19,231597.0,Max Bupa,No
+FOR-10223,11,Male,Orthopedics,Dr. Gupta,Urgent,13,355426.0,HDFC Ergo,No
+FOR-10224,16,Male,Orthopedics,Dr. Reddy,Elective,10,124779.0,Star Health,No
+FOR-10225,73,Male,Oncology,Dr. Sharma,Emergency,5,33557.0,Star Health,No
+FOR-10226,59,Female,Orthopedics,Dr. Reddy,Elective,6,174132.0,Max Bupa,No
+FOR-10227,70,Male,Cardiology,Dr. Gupta,Emergency,4,467082.0,HDFC Ergo,No
+FOR-10228,80,Female,Cardiology,Dr. Reddy,Elective,2,349248.0,Max Bupa,No
+FOR-10229,3,Female,Oncology,Dr. Mishra,Emergency,16,246977.0,Star Health,No
+FOR-10230,20,Female,Pediatrics,Dr. Mishra,Elective,18,492793.0,Self-Pay,No
+FOR-10231,59,Male,Neurology,Dr. Reddy,Elective,5,152152.0,Max Bupa,Yes
+FOR-10232,36,Male,Pediatrics,Dr. Sharma,Elective,4,159926.0,Self-Pay,No
+FOR-10233,19,Male,Orthopedics,Dr. Sharma,Elective,13,399157.0,Self-Pay,Yes
+FOR-10234,67,Male,Neurology,Dr. Sharma,Elective,19,213767.0,HDFC Ergo,No
+FOR-10235,19,Female,Oncology,Dr. Reddy,Elective,2,173097.0,Max Bupa,Yes
+FOR-10236,20,Female,Oncology,Dr. Sharma,Emergency,13,199054.0,Self-Pay,No
+FOR-10237,71,Female,Neurology,Dr. Gupta,Elective,11,56081.0,Self-Pay,No
+FOR-10238,52,Male,Cardiology,Dr. Mishra,Emergency,4,412584.0,HDFC Ergo,No
+FOR-10239,33,Female,Neurology,Dr. Gupta,Urgent,15,245693.0,HDFC Ergo,No
+FOR-10240,40,Male,Orthopedics,Dr. Sharma,Emergency,4,396325.0,Star Health,No
+FOR-10241,39,Female,Cardiology,Dr. Gupta,Elective,9,304238.0,Self-Pay,No
+FOR-10242,82,Male,Oncology,Dr. Sharma,Elective,7,454256.0,Star Health,No
+FOR-10243,1,Male,Neurology,Dr. Reddy,Elective,19,343910.0,Self-Pay,Yes
+FOR-10244,11,Female,Pediatrics,Dr. Gupta,Emergency,19,360197.0,Star Health,No
+FOR-10245,57,Female,Pediatrics,Dr. Reddy,Elective,6,170063.0,HDFC Ergo,No
+FOR-10246,89,Female,Orthopedics,Dr. Reddy,Elective,6,278445.0,Max Bupa,No
+FOR-10247,50,Female,Pediatrics,Dr. Verma,Elective,15,174682.0,HDFC Ergo,Yes
+FOR-10248,23,Male,Neurology,Dr. Sharma,Emergency,15,96463.0,Star Health,No
+FOR-10249,31,Female,Neurology,Dr. Mishra,Elective,9,180750.0,Star Health,No
+FOR-10250,42,Female,Pediatrics,Dr. Sharma,Elective,4,301610.0,Max Bupa,No
+FOR-10251,7,Female,Neurology,Dr. Mishra,Elective,18,488656.0,Self-Pay,No
+FOR-10252,16,Male,Orthopedics,Dr. Sharma,Elective,18,449091.0,Star Health,No
+FOR-10253,60,Male,Cardiology,Dr. Reddy,Elective,5,41081.0,Star Health,No
+FOR-10254,2,Female,Orthopedics,Dr. Gupta,Emergency,11,39354.0,Star Health,No
+FOR-10255,1,Male,Orthopedics,Dr. Gupta,Emergency,5,108297.0,Max Bupa,No
+FOR-10256,48,Female,Neurology,Dr. Verma,Emergency,4,295444.0,HDFC Ergo,No
+FOR-10257,12,Male,Cardiology,Dr. Mishra,Emergency,12,79384.0,Star Health,Yes
+FOR-10258,69,Male,Neurology,Dr. Mishra,Elective,2,372171.0,Max Bupa,Yes
+FOR-10259,37,Male,Oncology,Dr. Mishra,Elective,13,136684.0,Star Health,No
+FOR-10260,32,Male,Neurology,Dr. Reddy,Emergency,10,338036.0,Self-Pay,No
+FOR-10261,9,Female,Neurology,Dr. Mishra,Urgent,9,50525.0,Max Bupa,No
+FOR-10262,19,Female,Neurology,Dr. Gupta,Emergency,10,434748.0,Star Health,Yes
+FOR-10263,48,Female,Cardiology,Dr. Reddy,Elective,7,21464.0,Max Bupa,Yes
+FOR-10264,80,Male,Neurology,Dr. Sharma,Elective,4,31562.0,Star Health,No
+FOR-10265,3,Female,Cardiology,Dr. Mishra,Emergency,19,384536.0,HDFC Ergo,Yes
+FOR-10266,20,Female,Pediatrics,Dr. Mishra,Emergency,10,271139.0,Star Health,No
+FOR-10267,24,Female,Oncology,Dr. Sharma,Elective,3,390572.0,Max Bupa,Yes
+FOR-10268,54,Male,Cardiology,Dr. Mishra,Emergency,19,127564.0,Self-Pay,Yes
+FOR-10269,33,Male,Pediatrics,Dr. Sharma,Urgent,2,385191.0,Self-Pay,No
+FOR-10270,24,Male,Cardiology,Dr. Reddy,Elective,10,482435.0,Self-Pay,No
+FOR-10271,75,Female,Cardiology,Dr. Gupta,Urgent,2,47634.0,Star Health,No
+FOR-10272,72,Female,Oncology,Dr. Sharma,Emergency,2,277204.0,HDFC Ergo,No
+FOR-10273,36,Female,Orthopedics,Dr. Verma,Elective,17,286413.0,Star Health,No
+FOR-10274,38,Male,Orthopedics,Dr. Sharma,Elective,16,209215.0,Self-Pay,No
+FOR-10275,84,Male,Cardiology,Dr. Mishra,Elective,16,38065.0,Max Bupa,No
+FOR-10276,89,Female,Neurology,Dr. Reddy,Emergency,14,280039.0,Self-Pay,No
+FOR-10277,25,Male,Pediatrics,Dr. Reddy,Elective,7,358003.0,Max Bupa,Yes
+FOR-10278,18,Male,Neurology,Dr. Sharma,Elective,11,158424.0,HDFC Ergo,No
+FOR-10279,82,Male,Neurology,Dr. Gupta,Elective,1,457953.0,Max Bupa,No
+FOR-10280,66,Male,Cardiology,Dr. Verma,Emergency,11,119127.0,Star Health,No
+FOR-10281,54,Female,Cardiology,Dr. Reddy,Urgent,4,111426.0,Star Health,No
+FOR-10282,35,Male,Cardiology,Dr. Mishra,Emergency,7,440232.0,Star Health,No
+FOR-10283,80,Male,Cardiology,Dr. Mishra,Urgent,15,207376.0,Max Bupa,No
+FOR-10284,61,Male,Orthopedics,Dr. Gupta,Urgent,18,26962.0,Star Health,No
+FOR-10285,41,Male,Cardiology,Dr. Reddy,Urgent,12,48302.0,Star Health,No
+FOR-10286,33,Female,Orthopedics,Dr. Sharma,Elective,17,362526.0,Star Health,No
+FOR-10287,68,Female,Orthopedics,Dr. Mishra,Elective,1,19011.0,HDFC Ergo,No
+FOR-10288,33,Male,Cardiology,Dr. Gupta,Urgent,11,406860.0,Max Bupa,No
+FOR-10289,14,Male,Oncology,Dr. Reddy,Emergency,1,34782.0,Max Bupa,No
+FOR-10290,21,Male,Pediatrics,Dr. Reddy,Elective,15,213763.0,Self-Pay,Yes
+FOR-10291,48,Male,Neurology,Dr. Reddy,Elective,10,135654.0,Max Bupa,Yes
+FOR-10292,20,Male,Orthopedics,Dr. Reddy,Elective,7,447941.0,HDFC Ergo,No
+FOR-10293,8,Male,Pediatrics,Dr. Reddy,Emergency,2,24196.0,Max Bupa,No
+FOR-10294,7,Female,Oncology,Dr. Mishra,Elective,10,58459.0,HDFC Ergo,No
+FOR-10295,67,Male,Neurology,Dr. Gupta,Urgent,4,255489.0,HDFC Ergo,No
+FOR-10296,17,Female,Neurology,Dr. Reddy,Emergency,12,93863.0,Max Bupa,No
+FOR-10297,33,Female,Orthopedics,Dr. Verma,Urgent,19,400350.0,Self-Pay,No
+FOR-10298,48,Male,Cardiology,Dr. Verma,Emergency,11,265463.0,Star Health,No
+FOR-10299,76,Female,Oncology,Dr. Gupta,Emergency,8,378154.0,Star Health,Yes
+FOR-10300,59,Female,Orthopedics,Dr. Sharma,Emergency,18,47769.0,Max Bupa,No
+FOR-10301,86,Female,Oncology,Dr. Sharma,Emergency,11,384673.0,Max Bupa,No
+FOR-10302,22,Female,Cardiology,Dr. Sharma,Urgent,11,271433.0,HDFC Ergo,No
+FOR-10303,30,Female,Cardiology,Dr. Verma,Emergency,13,39700.0,Max Bupa,No
+FOR-10304,38,Female,Orthopedics,Dr. Sharma,Elective,3,279682.0,HDFC Ergo,No
+FOR-10305,51,Male,Cardiology,Dr. Mishra,Emergency,12,226428.0,Self-Pay,No
+FOR-10306,54,Female,Pediatrics,Dr. Reddy,Elective,3,484643.0,Max Bupa,No
+FOR-10307,8,Female,Neurology,Dr. Verma,Elective,10,246237.0,Star Health,No
+FOR-10308,27,Female,Orthopedics,Dr. Gupta,Emergency,17,282413.0,Star Health,Yes
+FOR-10309,27,Male,Oncology,Dr. Gupta,Emergency,2,398775.0,Max Bupa,No
+FOR-10310,21,Female,Pediatrics,Dr. Reddy,Urgent,17,321024.0,HDFC Ergo,No
+FOR-10311,30,Male,Orthopedics,Dr. Verma,Emergency,16,129003.0,Star Health,No
+FOR-10312,28,Female,Cardiology,Dr. Sharma,Elective,2,154392.0,HDFC Ergo,No
+FOR-10313,64,Male,Cardiology,Dr. Sharma,Emergency,6,64589.0,Max Bupa,Yes
+FOR-10314,69,Male,Cardiology,Dr. Mishra,Elective,10,265606.0,Max Bupa,Yes
+FOR-10315,61,Female,Cardiology,Dr. Mishra,Emergency,10,222348.0,Star Health,No
+FOR-10316,48,Female,Oncology,Dr. Sharma,Elective,8,50897.0,Max Bupa,No
+FOR-10317,19,Male,Pediatrics,Dr. Gupta,Emergency,1,204637.0,Self-Pay,No
+FOR-10318,4,Female,Neurology,Dr. Gupta,Urgent,13,177002.0,Self-Pay,No
+FOR-10319,35,Male,Oncology,Dr. Mishra,Emergency,9,203305.0,Star Health,No
+FOR-10320,64,Male,Oncology,Dr. Reddy,Elective,10,228893.0,Self-Pay,No
+FOR-10321,49,Male,Neurology,Dr. Sharma,Elective,15,291524.0,HDFC Ergo,No
+FOR-10322,17,Male,Neurology,Dr. Mishra,Emergency,5,222968.0,Star Health,No
+FOR-10323,44,Male,Cardiology,Dr. Mishra,Elective,16,85934.0,Star Health,No
+FOR-10324,30,Female,Oncology,Dr. Sharma,Emergency,13,70830.0,HDFC Ergo,No
+FOR-10325,46,Male,Orthopedics,Dr. Sharma,Urgent,18,282673.0,Self-Pay,Yes
+FOR-10326,6,Male,Neurology,Dr. Gupta,Urgent,11,267364.0,Self-Pay,No
+FOR-10327,37,Female,Neurology,Dr. Reddy,Urgent,9,371742.0,Self-Pay,No
+FOR-10328,24,Male,Pediatrics,Dr. Reddy,Emergency,16,248294.0,Star Health,No
+FOR-10329,46,Female,Orthopedics,Dr. Sharma,Elective,2,97987.0,Star Health,Yes
+FOR-10330,53,Female,Orthopedics,Dr. Verma,Elective,2,64178.0,Self-Pay,No
+FOR-10331,60,Female,Neurology,Dr. Mishra,Urgent,12,153009.0,Max Bupa,Yes
+FOR-10332,63,Male,Cardiology,Dr. Mishra,Elective,8,399096.0,Self-Pay,Yes
+FOR-10333,85,Male,Pediatrics,Dr. Sharma,Urgent,9,54886.0,HDFC Ergo,No
+FOR-10334,32,Male,Orthopedics,Dr. Verma,Elective,12,64699.0,Star Health,No
+FOR-10335,87,Female,Neurology,Dr. Gupta,Elective,9,91396.0,HDFC Ergo,No
+FOR-10336,33,Male,Orthopedics,Dr. Sharma,Emergency,10,105678.0,HDFC Ergo,No
+FOR-10337,67,Female,Pediatrics,Dr. Sharma,Elective,2,40279.0,Star Health,Yes
+FOR-10338,18,Male,Pediatrics,Dr. Mishra,Elective,16,446322.0,Max Bupa,No
+FOR-10339,25,Female,Oncology,Dr. Sharma,Elective,7,125776.0,Self-Pay,No
+FOR-10340,54,Male,Neurology,Dr. Sharma,Elective,2,116444.0,HDFC Ergo,No
+FOR-10341,58,Male,Pediatrics,Dr. Sharma,Elective,1,383444.0,Star Health,No
+FOR-10342,67,Male,Oncology,Dr. Mishra,Emergency,19,128793.0,HDFC Ergo,No
+FOR-10343,46,Female,Oncology,Dr. Gupta,Elective,4,393422.0,Self-Pay,No
+FOR-10344,24,Female,Orthopedics,Dr. Gupta,Elective,2,225809.0,Max Bupa,Yes
+FOR-10345,32,Male,Orthopedics,Dr. Sharma,Elective,14,186616.0,Max Bupa,No
+FOR-10346,47,Male,Oncology,Dr. Mishra,Emergency,2,380391.0,Max Bupa,No
+FOR-10347,86,Female,Orthopedics,Dr. Gupta,Emergency,15,279682.0,Star Health,Yes
+FOR-10348,23,Female,Pediatrics,Dr. Gupta,Emergency,12,23997.0,Star Health,No
+FOR-10349,66,Female,Cardiology,Dr. Gupta,Elective,5,121102.0,Max Bupa,No
+FOR-10350,27,Male,Pediatrics,Dr. Mishra,Emergency,7,362855.0,Self-Pay,No
+FOR-10351,2,Female,Oncology,Dr. Mishra,Elective,10,393189.0,Self-Pay,Yes
+FOR-10352,17,Male,Oncology,Dr. Sharma,Urgent,14,55860.0,Star Health,No
+FOR-10353,33,Female,Pediatrics,Dr. Reddy,Emergency,14,280369.0,Max Bupa,No
+FOR-10354,9,Male,Orthopedics,Dr. Gupta,Elective,5,125114.0,Self-Pay,No
+FOR-10355,43,Female,Orthopedics,Dr. Reddy,Elective,18,467686.0,Self-Pay,No
+FOR-10356,48,Female,Oncology,Dr. Mishra,Urgent,14,231775.0,Self-Pay,No
+FOR-10357,39,Female,Neurology,Dr. Mishra,Elective,2,377908.0,Star Health,No
+FOR-10358,42,Female,Orthopedics,Dr. Mishra,Elective,12,122041.0,Max Bupa,No
+FOR-10359,26,Female,Pediatrics,Dr. Reddy,Urgent,6,389368.0,HDFC Ergo,No
+FOR-10360,50,Male,Orthopedics,Dr. Mishra,Elective,4,340800.0,Max Bupa,No
+FOR-10361,25,Female,Pediatrics,Dr. Sharma,Urgent,13,460096.0,Max Bupa,No
+FOR-10362,24,Female,Oncology,Dr. Mishra,Emergency,4,207150.0,Star Health,Yes
+FOR-10363,13,Female,Orthopedics,Dr. Verma,Urgent,14,496862.0,Self-Pay,No
+FOR-10364,60,Male,Pediatrics,Dr. Reddy,Elective,16,91290.0,Self-Pay,No
+FOR-10365,7,Female,Oncology,Dr. Verma,Elective,4,71633.0,Star Health,No
+FOR-10366,57,Male,Neurology,Dr. Mishra,Emergency,1,255489.0,Star Health,No
+FOR-10367,36,Female,Pediatrics,Dr. Sharma,Elective,13,136118.0,Star Health,No
+FOR-10368,45,Female,Neurology,Dr. Gupta,Emergency,4,189673.0,Star Health,No
+FOR-10369,20,Male,Neurology,Dr. Mishra,Urgent,18,18114.0,Star Health,No
+FOR-10370,65,Female,Cardiology,Dr. Sharma,Urgent,6,303646.0,HDFC Ergo,No
+FOR-10371,8,Male,Orthopedics,Dr. Reddy,Emergency,3,64768.0,Max Bupa,No
+FOR-10372,16,Male,Pediatrics,Dr. Verma,Urgent,13,325272.0,Max Bupa,No
+FOR-10373,14,Female,Neurology,Dr. Verma,Elective,16,428244.0,Max Bupa,No
+FOR-10374,76,Male,Cardiology,Dr. Verma,Elective,5,463781.0,Self-Pay,Yes
+FOR-10375,87,Female,Oncology,Dr. Reddy,Emergency,4,98123.0,HDFC Ergo,No
+FOR-10376,15,Female,Pediatrics,Dr. Sharma,Emergency,8,123255.0,Max Bupa,No
+FOR-10377,66,Male,Neurology,Dr. Reddy,Emergency,19,181405.0,Self-Pay,No
+FOR-10378,32,Male,Orthopedics,Dr. Verma,Emergency,14,18174.0,HDFC Ergo,No
+FOR-10379,87,Male,Cardiology,Dr. Mishra,Urgent,7,132769.0,HDFC Ergo,No
+FOR-10380,63,Male,Neurology,Dr. Gupta,Emergency,14,312542.0,Self-Pay,No
+FOR-10381,86,Female,Orthopedics,Dr. Reddy,Urgent,6,444145.0,HDFC Ergo,No
+FOR-10382,51,Female,Neurology,Dr. Reddy,Emergency,12,150393.0,Self-Pay,Yes
+FOR-10383,25,Male,Pediatrics,Dr. Sharma,Elective,16,400693.0,Max Bupa,No
+FOR-10384,58,Female,Pediatrics,Dr. Sharma,Elective,17,242043.0,Self-Pay,No
+FOR-10385,63,Female,Pediatrics,Dr. Reddy,Urgent,13,257580.0,HDFC Ergo,No
+FOR-10386,62,Female,Cardiology,Dr. Verma,Emergency,14,201493.0,Max Bupa,No
+FOR-10387,22,Female,Pediatrics,Dr. Gupta,Elective,7,87635.0,Max Bupa,No
+FOR-10388,58,Male,Orthopedics,Dr. Sharma,Elective,14,300904.0,Star Health,No
+FOR-10389,58,Male,Neurology,Dr. Verma,Emergency,15,419576.0,Star Health,No
+FOR-10390,86,Female,Oncology,Dr. Mishra,Emergency,12,156385.0,HDFC Ergo,No
+FOR-10391,49,Male,Orthopedics,Dr. Sharma,Elective,17,407818.0,Self-Pay,Yes
+FOR-10392,52,Male,Orthopedics,Dr. Verma,Elective,9,257878.0,Self-Pay,No
+FOR-10393,42,Male,Pediatrics,Dr. Verma,Elective,15,232070.0,HDFC Ergo,No
+FOR-10394,70,Female,Cardiology,Dr. Gupta,Emergency,12,257599.0,Max Bupa,No
+FOR-10395,15,Female,Neurology,Dr. Gupta,Elective,2,291274.0,HDFC Ergo,No
+FOR-10396,54,Female,Cardiology,Dr. Mishra,Elective,5,257599.0,HDFC Ergo,No
+FOR-10397,60,Male,Neurology,Dr. Verma,Elective,13,424291.0,Max Bupa,No
+FOR-10398,8,Female,Neurology,Dr. Verma,Urgent,8,384359.0,Self-Pay,No
+FOR-10399,53,Female,Cardiology,Dr. Gupta,Elective,14,165056.0,HDFC Ergo,No
+FOR-10400,60,Male,Orthopedics,Dr. Sharma,Elective,15,365239.0,Self-Pay,No
+FOR-10401,5,Female,Neurology,Dr. Sharma,Emergency,11,338086.0,HDFC Ergo,No
+FOR-10402,68,Female,Cardiology,Dr. Reddy,Elective,1,158933.0,Max Bupa,No
+FOR-10403,6,Male,Neurology,Dr. Gupta,Emergency,3,113970.0,Max Bupa,No
+FOR-10404,47,Male,Oncology,Dr. Reddy,Elective,17,97203.0,Star Health,No
+FOR-10405,55,Male,Orthopedics,Dr. Gupta,Elective,19,479592.0,Max Bupa,No
+FOR-10406,40,Female,Pediatrics,Dr. Mishra,Urgent,14,207319.0,Star Health,No
+FOR-10407,52,Female,Neurology,Dr. Verma,Emergency,8,215173.0,HDFC Ergo,No
+FOR-10408,16,Female,Oncology,Dr. Mishra,Elective,13,167049.0,Self-Pay,No
+FOR-10409,13,Male,Pediatrics,Dr. Gupta,Elective,3,458833.0,Max Bupa,No
+FOR-10410,30,Male,Pediatrics,Dr. Verma,Emergency,5,465689.0,Max Bupa,No
+FOR-10411,19,Female,Neurology,Dr. Sharma,Emergency,9,255489.0,Max Bupa,Yes
+FOR-10412,17,Female,Cardiology,Dr. Sharma,Emergency,6,365321.0,HDFC Ergo,Yes
+FOR-10413,63,Male,Neurology,Dr. Reddy,Emergency,2,87902.0,Star Health,No
+FOR-10414,19,Male,Oncology,Dr. Gupta,Emergency,13,107172.0,HDFC Ergo,No
+FOR-10415,58,Male,Pediatrics,Dr. Gupta,Emergency,5,161702.0,Self-Pay,No
+FOR-10416,55,Male,Neurology,Dr. Sharma,Emergency,8,35056.0,HDFC Ergo,Yes
+FOR-10417,62,Female,Cardiology,Dr. Mishra,Elective,1,153454.0,Self-Pay,Yes
+FOR-10418,23,Male,Neurology,Dr. Verma,Elective,12,70739.0,Max Bupa,No
+FOR-10419,9,Female,Orthopedics,Dr. Mishra,Urgent,11,358829.0,Self-Pay,No
+FOR-10420,12,Female,Cardiology,Dr. Mishra,Elective,7,63639.0,Self-Pay,No
+FOR-10421,1,Female,Oncology,Dr. Sharma,Elective,15,468054.0,Star Health,Yes
+FOR-10422,58,Male,Pediatrics,Dr. Sharma,Urgent,11,454257.0,Self-Pay,No
+FOR-10423,1,Male,Neurology,Dr. Sharma,Elective,16,278136.0,Self-Pay,No
+FOR-10424,34,Male,Cardiology,Dr. Reddy,Elective,3,87394.0,HDFC Ergo,No
+FOR-10425,48,Male,Orthopedics,Dr. Mishra,Elective,14,344801.0,Max Bupa,Yes
+FOR-10426,89,Female,Cardiology,Dr. Gupta,Emergency,3,304304.0,HDFC Ergo,No
+FOR-10427,1,Male,Orthopedics,Dr. Verma,Emergency,1,322300.0,HDFC Ergo,No
+FOR-10428,16,Male,Oncology,Dr. Reddy,Elective,15,197447.0,Max Bupa,No
+FOR-10429,61,Female,Pediatrics,Dr. Gupta,Elective,1,363586.0,Max Bupa,No
+FOR-10430,64,Male,Oncology,Dr. Mishra,Emergency,17,165644.0,Self-Pay,No
+FOR-10431,63,Female,Neurology,Dr. Sharma,Urgent,2,395069.0,Self-Pay,Yes
+FOR-10432,69,Female,Cardiology,Dr. Mishra,Elective,6,19136.0,Star Health,No
+FOR-10433,22,Female,Orthopedics,Dr. Verma,Elective,8,76868.0,HDFC Ergo,No
+FOR-10434,67,Female,Orthopedics,Dr. Reddy,Urgent,16,359407.0,Max Bupa,No
+FOR-10435,76,Female,Cardiology,Dr. Reddy,Elective,19,309311.0,Self-Pay,No
+FOR-10436,26,Female,Cardiology,Dr. Verma,Urgent,1,125957.0,Max Bupa,No
+FOR-10437,16,Female,Neurology,Dr. Gupta,Elective,3,30479.0,Self-Pay,No
+FOR-10438,51,Female,Oncology,Dr. Gupta,Emergency,3,134392.0,Star Health,No
+FOR-10439,86,Male,Orthopedics,Dr. Reddy,Elective,5,177448.0,Star Health,No
+FOR-10440,57,Male,Neurology,Dr. Reddy,Elective,12,150895.0,Max Bupa,No
+FOR-10441,29,Male,Oncology,Dr. Sharma,Elective,12,271228.0,Star Health,Yes
+FOR-10442,78,Male,Neurology,Dr. Gupta,Urgent,13,216528.0,Max Bupa,No
+FOR-10443,69,Female,Orthopedics,Dr. Verma,Elective,9,296729.0,Self-Pay,No
+FOR-10444,47,Male,Cardiology,Dr. Gupta,Elective,7,249847.0,HDFC Ergo,No
+FOR-10445,62,Female,Cardiology,Dr. Sharma,Urgent,4,425488.0,Star Health,No
+FOR-10446,69,Male,Oncology,Dr. Reddy,Elective,19,303763.0,Self-Pay,No
+FOR-10447,76,Male,Pediatrics,Dr. Reddy,Elective,19,271139.0,HDFC Ergo,Yes
+FOR-10448,16,Male,Oncology,Dr. Sharma,Urgent,6,317039.0,HDFC Ergo,No
+FOR-10449,48,Female,Pediatrics,Dr. Verma,Emergency,13,280864.0,HDFC Ergo,Yes
+FOR-10450,85,Male,Neurology,Dr. Reddy,Elective,11,296411.0,Self-Pay,Yes
+FOR-10451,39,Female,Neurology,Dr. Mishra,Urgent,13,161768.0,Self-Pay,No
+FOR-10452,33,Female,Orthopedics,Dr. Reddy,Elective,13,176040.0,Max Bupa,No
+FOR-10453,23,Male,Pediatrics,Dr. Mishra,Elective,15,330508.0,HDFC Ergo,No
+FOR-10454,10,Male,Orthopedics,Dr. Sharma,Elective,13,431561.0,HDFC Ergo,No
+FOR-10455,69,Male,Cardiology,Dr. Sharma,Elective,11,66567.0,HDFC Ergo,No
+FOR-10456,34,Female,Pediatrics,Dr. Reddy,Urgent,19,106229.0,Max Bupa,No
+FOR-10457,52,Male,Oncology,Dr. Gupta,Emergency,8,469823.0,HDFC Ergo,No
+FOR-10458,10,Female,Cardiology,Dr. Mishra,Emergency,8,427601.0,Self-Pay,No
+FOR-10459,19,Female,Cardiology,Dr. Verma,Emergency,10,491874.0,HDFC Ergo,No
+FOR-10460,58,Male,Oncology,Dr. Reddy,Elective,16,475116.0,Star Health,No
+FOR-10461,1,Male,Cardiology,Dr. Verma,Elective,19,214316.0,Self-Pay,No
+FOR-10462,69,Female,Pediatrics,Dr. Reddy,Urgent,11,211497.0,Max Bupa,No
+FOR-10463,4,Female,Orthopedics,Dr. Gupta,Elective,13,355662.0,HDFC Ergo,No
+FOR-10464,16,Female,Cardiology,Dr. Gupta,Elective,9,97844.0,Star Health,No
+FOR-10465,24,Male,Pediatrics,Dr. Gupta,Emergency,19,178991.0,Max Bupa,Yes
+FOR-10466,80,Female,Neurology,Dr. Gupta,Elective,16,105697.0,Max Bupa,No
+FOR-10467,2,Male,Pediatrics,Dr. Sharma,Elective,7,72196.0,Self-Pay,No
+FOR-10468,32,Female,Orthopedics,Dr. Sharma,Emergency,19,130600.0,Max Bupa,Yes
+FOR-10469,84,Female,Pediatrics,Dr. Mishra,Emergency,12,115625.0,Max Bupa,No
+FOR-10470,24,Male,Oncology,Dr. Verma,Emergency,15,487617.0,Max Bupa,No
+FOR-10471,12,Female,Orthopedics,Dr. Reddy,Emergency,14,408711.0,Max Bupa,No
+FOR-10472,50,Male,Neurology,Dr. Reddy,Elective,11,321899.0,HDFC Ergo,No
+FOR-10473,35,Male,Oncology,Dr. Sharma,Emergency,10,231775.0,HDFC Ergo,No
+FOR-10474,33,Female,Pediatrics,Dr. Reddy,Elective,11,271139.0,HDFC Ergo,No
+FOR-10475,33,Male,Orthopedics,Dr. Sharma,Urgent,6,356073.0,HDFC Ergo,No
+FOR-10476,61,Male,Neurology,Dr. Mishra,Elective,2,409768.0,Star Health,No
+FOR-10477,51,Female,Oncology,Dr. Verma,Urgent,11,66272.0,HDFC Ergo,No
+FOR-10478,43,Male,Neurology,Dr. Mishra,Elective,19,444069.0,Max Bupa,No
+FOR-10479,12,Male,Pediatrics,Dr. Gupta,Elective,6,264264.0,HDFC Ergo,Yes
+FOR-10480,67,Male,Neurology,Dr. Gupta,Urgent,14,178996.0,HDFC Ergo,No
+FOR-10481,65,Female,Cardiology,Dr. Gupta,Emergency,6,351606.0,Self-Pay,No
+FOR-10482,33,Male,Oncology,Dr. Mishra,Urgent,17,242459.0,Max Bupa,No
+FOR-10483,40,Female,Neurology,Dr. Reddy,Emergency,10,169961.0,HDFC Ergo,No
+FOR-10484,74,Female,Pediatrics,Dr. Verma,Elective,1,251538.0,HDFC Ergo,No
+FOR-10485,43,Male,Pediatrics,Dr. Gupta,Emergency,3,69675.0,HDFC Ergo,No
+FOR-10486,44,Male,Neurology,Dr. Gupta,Elective,8,88591.0,Star Health,Yes
+FOR-10487,29,Male,Pediatrics,Dr. Gupta,Elective,8,478406.0,HDFC Ergo,No
+FOR-10488,13,Female,Orthopedics,Dr. Verma,Elective,15,168706.0,Self-Pay,No
+FOR-10489,12,Male,Orthopedics,Dr. Gupta,Emergency,7,309507.0,Max Bupa,Yes
+FOR-10490,46,Male,Orthopedics,Dr. Verma,Emergency,11,209824.0,Max Bupa,No
+FOR-10491,2,Male,Cardiology,Dr. Gupta,Emergency,7,354148.0,HDFC Ergo,Yes
+FOR-10492,35,Male,Neurology,Dr. Mishra,Emergency,4,464614.0,HDFC Ergo,No
+FOR-10493,87,Male,Cardiology,Dr. Mishra,Urgent,12,244530.0,HDFC Ergo,Yes
+FOR-10494,81,Female,Pediatrics,Dr. Verma,Emergency,6,317862.0,Max Bupa,Yes
+FOR-10495,8,Female,Cardiology,Dr. Mishra,Urgent,14,128627.0,Max Bupa,No
+FOR-10496,26,Male,Pediatrics,Dr. Verma,Urgent,12,228988.0,Star Health,No
+FOR-10497,74,Male,Pediatrics,Dr. Mishra,Emergency,11,304014.0,Self-Pay,Yes
+FOR-10498,34,Male,Oncology,Dr. Mishra,Elective,19,52394.0,Star Health,No
+FOR-10499,7,Male,Orthopedics,Dr. Verma,Emergency,5,329201.0,Self-Pay,Yes
+FOR-10500,68,Female,Pediatrics,Dr. Reddy,Emergency,14,94795.0,Star Health,No
+FOR-10501,58,Male,Oncology,Dr. Mishra,Emergency,16,357553.0,Max Bupa,Yes
+FOR-10502,75,Female,Orthopedics,Dr. Gupta,Elective,13,290160.0,Star Health,No
+FOR-10503,29,Female,Pediatrics,Dr. Reddy,Elective,4,57137.0,Self-Pay,No
+FOR-10504,36,Male,Pediatrics,Dr. Verma,Elective,11,408369.0,HDFC Ergo,Yes
+FOR-10505,89,Female,Cardiology,Dr. Reddy,Elective,17,153925.0,Self-Pay,No
+FOR-10506,21,Female,Cardiology,Dr. Sharma,Emergency,7,27379.0,HDFC Ergo,No
+FOR-10507,36,Female,Orthopedics,Dr. Sharma,Elective,14,424008.0,Max Bupa,No
+FOR-10508,10,Female,Pediatrics,Dr. Mishra,Elective,11,136169.0,Self-Pay,No
+FOR-10509,73,Male,Neurology,Dr. Mishra,Emergency,9,184439.0,Star Health,No
+FOR-10510,24,Male,Cardiology,Dr. Gupta,Emergency,13,164172.0,Self-Pay,No
+FOR-10511,64,Female,Orthopedics,Dr. Reddy,Elective,18,141082.0,HDFC Ergo,No
+FOR-10512,49,Male,Pediatrics,Dr. Sharma,Emergency,11,390233.0,Max Bupa,No
+FOR-10513,36,Male,Pediatrics,Dr. Mishra,Elective,15,471672.0,Star Health,No
+FOR-10514,82,Male,Neurology,Dr. Reddy,Emergency,19,26049.0,Self-Pay,No
+FOR-10515,24,Male,Orthopedics,Dr. Mishra,Emergency,1,409002.0,HDFC Ergo,No
+FOR-10516,23,Male,Pediatrics,Dr. Mishra,Emergency,4,478120.0,Star Health,No
+FOR-10517,62,Female,Cardiology,Dr. Sharma,Emergency,14,176771.0,Max Bupa,No
+FOR-10518,37,Male,Neurology,Dr. Sharma,Elective,14,255489.0,Star Health,Yes
+FOR-10519,12,Male,Orthopedics,Dr. Mishra,Elective,3,324835.0,Max Bupa,No
+FOR-10520,55,Male,Neurology,Dr. Verma,Elective,17,183112.0,Star Health,No
+FOR-10521,13,Male,Cardiology,Dr. Mishra,Urgent,3,264527.0,Self-Pay,No
+FOR-10522,23,Female,Orthopedics,Dr. Mishra,Elective,16,239062.0,HDFC Ergo,Yes
+FOR-10523,89,Female,Neurology,Dr. Gupta,Elective,14,255489.0,Self-Pay,No
+FOR-10524,30,Female,Oncology,Dr. Gupta,Emergency,13,446978.0,Self-Pay,No
+FOR-10525,17,Female,Cardiology,Dr. Gupta,Elective,15,169672.0,Max Bupa,No
+FOR-10526,62,Male,Cardiology,Dr. Verma,Elective,14,371918.0,Max Bupa,No
+FOR-10527,84,Female,Cardiology,Dr. Verma,Emergency,19,236849.0,Max Bupa,No
+FOR-10528,89,Male,Oncology,Dr. Mishra,Elective,6,428026.0,Self-Pay,Yes
+FOR-10529,86,Male,Oncology,Dr. Gupta,Emergency,10,231775.0,Star Health,No
+FOR-10530,13,Male,Pediatrics,Dr. Verma,Elective,15,495563.0,Star Health,No
+FOR-10531,59,Male,Neurology,Dr. Sharma,Urgent,6,120315.0,Self-Pay,Yes
+FOR-10532,19,Male,Pediatrics,Dr. Mishra,Urgent,10,334348.0,Self-Pay,No
+FOR-10533,49,Female,Neurology,Dr. Reddy,Elective,7,297229.0,HDFC Ergo,No
+FOR-10534,12,Female,Oncology,Dr. Mishra,Elective,17,192926.0,Max Bupa,No
+FOR-10535,61,Female,Oncology,Dr. Reddy,Elective,18,483013.0,Max Bupa,Yes
+FOR-10536,19,Female,Pediatrics,Dr. Gupta,Elective,17,230341.0,Self-Pay,No
+FOR-10537,76,Male,Orthopedics,Dr. Reddy,Emergency,9,185851.0,Self-Pay,No
+FOR-10538,9,Female,Pediatrics,Dr. Gupta,Elective,10,202279.0,Star Health,No
+FOR-10539,71,Male,Neurology,Dr. Sharma,Elective,10,240687.0,Self-Pay,No
+FOR-10540,28,Female,Pediatrics,Dr. Reddy,Urgent,7,311124.0,Star Health,No
+FOR-10541,78,Male,Cardiology,Dr. Mishra,Elective,16,333261.0,Self-Pay,No
+FOR-10542,52,Male,Neurology,Dr. Gupta,Elective,18,160213.0,HDFC Ergo,No
+FOR-10543,83,Female,Neurology,Dr. Mishra,Elective,6,155416.0,HDFC Ergo,No
+FOR-10544,16,Male,Orthopedics,Dr. Verma,Elective,1,30896.0,Star Health,No
+FOR-10545,69,Male,Oncology,Dr. Gupta,Elective,1,104353.0,Max Bupa,No
+FOR-10546,12,Female,Neurology,Dr. Reddy,Emergency,12,44813.0,HDFC Ergo,No
+FOR-10547,25,Male,Oncology,Dr. Gupta,Elective,2,230503.0,Star Health,No
+FOR-10548,52,Female,Pediatrics,Dr. Mishra,Urgent,4,80679.0,Self-Pay,No
+FOR-10549,85,Female,Cardiology,Dr. Sharma,Elective,17,156753.0,Self-Pay,No
+FOR-10550,53,Female,Orthopedics,Dr. Gupta,Emergency,4,218975.0,Star Health,No
+FOR-10551,23,Male,Oncology,Dr. Reddy,Elective,11,280372.0,Max Bupa,Yes
+FOR-10552,16,Male,Neurology,Dr. Verma,Urgent,4,412798.0,Star Health,Yes
+FOR-10553,57,Male,Oncology,Dr. Sharma,Emergency,1,224755.0,Star Health,No
+FOR-10554,39,Female,Neurology,Dr. Verma,Elective,7,288541.0,HDFC Ergo,No
+FOR-10555,53,Male,Oncology,Dr. Gupta,Urgent,18,447015.0,Star Health,No
+FOR-10556,42,Female,Neurology,Dr. Mishra,Elective,9,314155.0,Star Health,No
+FOR-10557,58,Female,Pediatrics,Dr. Mishra,Urgent,3,94183.0,Self-Pay,Yes
+FOR-10558,39,Male,Neurology,Dr. Reddy,Elective,8,370398.0,HDFC Ergo,No
+FOR-10559,14,Female,Neurology,Dr. Mishra,Elective,19,452480.0,Self-Pay,Yes
+FOR-10560,5,Male,Cardiology,Dr. Sharma,Elective,4,57317.0,Self-Pay,No
+FOR-10561,35,Male,Neurology,Dr. Mishra,Emergency,18,193986.0,Max Bupa,No
+FOR-10562,87,Male,Cardiology,Dr. Reddy,Emergency,11,257599.0,Max Bupa,No
+FOR-10563,75,Male,Orthopedics,Dr. Gupta,Elective,14,379633.0,HDFC Ergo,No
+FOR-10564,18,Male,Cardiology,Dr. Gupta,Emergency,18,191326.0,HDFC Ergo,No
+FOR-10565,76,Female,Pediatrics,Dr. Mishra,Elective,16,317240.0,Max Bupa,No
+FOR-10566,9,Female,Cardiology,Dr. Verma,Urgent,3,330929.0,Max Bupa,No
+FOR-10567,74,Female,Orthopedics,Dr. Gupta,Urgent,15,67344.0,Max Bupa,No
+FOR-10568,58,Male,Pediatrics,Dr. Mishra,Elective,4,261060.0,Max Bupa,No
+FOR-10569,17,Male,Oncology,Dr. Reddy,Urgent,5,490859.0,Max Bupa,Yes
+FOR-10570,7,Male,Oncology,Dr. Mishra,Elective,17,397526.0,Self-Pay,No
+FOR-10571,46,Female,Cardiology,Dr. Gupta,Elective,7,214618.0,HDFC Ergo,No
+FOR-10572,13,Male,Cardiology,Dr. Reddy,Emergency,16,257599.0,Self-Pay,No
+FOR-10573,40,Female,Orthopedics,Dr. Mishra,Elective,14,473819.0,Self-Pay,No
+FOR-10574,42,Female,Orthopedics,Dr. Sharma,Elective,16,174484.0,Star Health,No
+FOR-10575,9,Male,Neurology,Dr. Reddy,Elective,7,125489.0,Self-Pay,No
+FOR-10576,50,Male,Orthopedics,Dr. Sharma,Elective,9,459874.0,Max Bupa,No
+FOR-10577,27,Female,Neurology,Dr. Verma,Emergency,4,457765.0,Max Bupa,No
+FOR-10578,66,Male,Pediatrics,Dr. Reddy,Elective,11,273667.0,Star Health,No
+FOR-10579,5,Female,Cardiology,Dr. Sharma,Urgent,2,257599.0,Star Health,No
+FOR-10580,29,Male,Pediatrics,Dr. Gupta,Elective,12,479432.0,Star Health,No
+FOR-10581,37,Male,Orthopedics,Dr. Gupta,Urgent,12,40739.0,Star Health,No
+FOR-10582,38,Female,Pediatrics,Dr. Verma,Urgent,4,271139.0,Star Health,No
+FOR-10583,83,Male,Pediatrics,Dr. Reddy,Urgent,18,122051.0,Self-Pay,No
+FOR-10584,8,Female,Pediatrics,Dr. Reddy,Urgent,7,496184.0,Star Health,No
+FOR-10585,65,Male,Orthopedics,Dr. Reddy,Urgent,1,30116.0,Self-Pay,No
+FOR-10586,86,Female,Pediatrics,Dr. Verma,Elective,13,35045.0,HDFC Ergo,Yes
+FOR-10587,17,Female,Neurology,Dr. Reddy,Emergency,6,434543.0,Star Health,No
+FOR-10588,71,Male,Orthopedics,Dr. Gupta,Elective,6,50709.0,Star Health,No
+FOR-10589,89,Female,Pediatrics,Dr. Sharma,Elective,12,320761.0,Self-Pay,Yes
+FOR-10590,45,Male,Orthopedics,Dr. Gupta,Emergency,8,468355.0,HDFC Ergo,Yes
+FOR-10591,4,Male,Oncology,Dr. Gupta,Emergency,19,172977.0,Self-Pay,No
+FOR-10592,36,Male,Neurology,Dr. Sharma,Urgent,5,472364.0,Self-Pay,Yes
+FOR-10593,70,Female,Pediatrics,Dr. Gupta,Urgent,18,218675.0,Star Health,No
+FOR-10594,31,Female,Oncology,Dr. Verma,Urgent,5,244167.0,Max Bupa,No
+FOR-10595,19,Male,Oncology,Dr. Sharma,Elective,10,396923.0,Max Bupa,No
+FOR-10596,61,Male,Orthopedics,Dr. Gupta,Emergency,1,320063.0,Self-Pay,No
+FOR-10597,54,Female,Oncology,Dr. Mishra,Emergency,10,360665.0,Star Health,No
+FOR-10598,39,Male,Neurology,Dr. Gupta,Emergency,5,491616.0,HDFC Ergo,No
+FOR-10599,74,Male,Neurology,Dr. Verma,Emergency,12,234222.0,Max Bupa,No
+FOR-10600,19,Female,Cardiology,Dr. Reddy,Emergency,7,204518.0,HDFC Ergo,No
+FOR-10601,39,Male,Neurology,Dr. Gupta,Urgent,9,198500.0,Max Bupa,No
+FOR-10602,67,Female,Oncology,Dr. Reddy,Elective,12,456110.0,Star Health,No
+FOR-10603,45,Male,Neurology,Dr. Mishra,Emergency,1,489365.0,Self-Pay,Yes
+FOR-10604,13,Female,Orthopedics,Dr. Gupta,Emergency,11,279682.0,HDFC Ergo,No
+FOR-10605,58,Male,Cardiology,Dr. Sharma,Elective,15,20499.0,HDFC Ergo,Yes
+FOR-10606,20,Male,Oncology,Dr. Reddy,Emergency,2,54041.0,Self-Pay,No
+FOR-10607,72,Female,Cardiology,Dr. Mishra,Urgent,7,308459.0,HDFC Ergo,No
+FOR-10608,61,Male,Oncology,Dr. Sharma,Elective,12,147371.0,Max Bupa,No
+FOR-10609,39,Female,Orthopedics,Dr. Sharma,Elective,18,397650.0,Self-Pay,No
+FOR-10610,1,Male,Cardiology,Dr. Sharma,Emergency,3,151066.0,Max Bupa,Yes
+FOR-10611,3,Female,Pediatrics,Dr. Sharma,Emergency,7,241486.0,Max Bupa,No
+FOR-10612,77,Female,Oncology,Dr. Gupta,Elective,11,227235.0,Star Health,No
+FOR-10613,62,Female,Pediatrics,Dr. Gupta,Elective,18,272831.0,Max Bupa,No
+FOR-10614,63,Female,Cardiology,Dr. Gupta,Elective,12,415705.0,Star Health,No
+FOR-10615,25,Male,Pediatrics,Dr. Mishra,Emergency,6,368791.0,HDFC Ergo,No
+FOR-10616,56,Male,Pediatrics,Dr. Mishra,Elective,5,309499.0,HDFC Ergo,No
+FOR-10617,33,Female,Cardiology,Dr. Mishra,Elective,1,350949.0,Star Health,No
+FOR-10618,38,Female,Orthopedics,Dr. Verma,Urgent,12,345511.0,Max Bupa,No
+FOR-10619,6,Female,Pediatrics,Dr. Mishra,Emergency,11,387050.0,Self-Pay,No
+FOR-10620,58,Male,Pediatrics,Dr. Gupta,Emergency,4,394553.0,Self-Pay,No
+FOR-10621,44,Male,Orthopedics,Dr. Gupta,Elective,18,354499.0,Star Health,No
+FOR-10622,45,Male,Pediatrics,Dr. Verma,Elective,4,131220.0,HDFC Ergo,Yes
+FOR-10623,32,Male,Pediatrics,Dr. Verma,Elective,17,271139.0,HDFC Ergo,No
+FOR-10624,45,Female,Pediatrics,Dr. Mishra,Elective,2,364317.0,Self-Pay,No
+FOR-10625,61,Female,Neurology,Dr. Reddy,Elective,2,279140.0,Star Health,No
+FOR-10626,47,Female,Orthopedics,Dr. Verma,Urgent,12,266071.0,Self-Pay,Yes
+FOR-10627,21,Male,Pediatrics,Dr. Sharma,Elective,6,321531.0,Max Bupa,No
+FOR-10628,80,Male,Orthopedics,Dr. Gupta,Urgent,10,18089.0,Max Bupa,No
+FOR-10629,85,Male,Oncology,Dr. Sharma,Elective,16,231775.0,Star Health,No
+FOR-10630,75,Female,Oncology,Dr. Gupta,Urgent,14,297803.0,Star Health,No
+FOR-10631,36,Female,Pediatrics,Dr. Gupta,Urgent,7,322322.0,Max Bupa,No
+FOR-10632,19,Male,Orthopedics,Dr. Verma,Emergency,19,110965.0,HDFC Ergo,No
+FOR-10633,20,Female,Orthopedics,Dr. Verma,Urgent,17,96268.0,Star Health,No
+FOR-10634,57,Male,Orthopedics,Dr. Sharma,Emergency,9,279682.0,Max Bupa,No
+FOR-10635,18,Male,Neurology,Dr. Gupta,Urgent,13,383615.0,Max Bupa,No
+FOR-10636,47,Female,Oncology,Dr. Sharma,Elective,5,216798.0,HDFC Ergo,No
+FOR-10637,49,Male,Orthopedics,Dr. Reddy,Emergency,5,347255.0,HDFC Ergo,No
+FOR-10638,14,Female,Orthopedics,Dr. Sharma,Elective,10,252103.0,HDFC Ergo,Yes
+FOR-10639,15,Male,Neurology,Dr. Mishra,Urgent,10,259754.0,HDFC Ergo,Yes
+FOR-10640,31,Female,Neurology,Dr. Sharma,Emergency,7,180637.0,Self-Pay,No
+FOR-10641,1,Female,Orthopedics,Dr. Mishra,Elective,15,377579.0,HDFC Ergo,No
+FOR-10642,54,Female,Cardiology,Dr. Mishra,Elective,7,104242.0,Self-Pay,No
+FOR-10643,3,Male,Orthopedics,Dr. Mishra,Urgent,15,390348.0,Star Health,No
+FOR-10644,16,Male,Orthopedics,Dr. Reddy,Elective,3,168956.0,Max Bupa,Yes
+FOR-10645,87,Female,Neurology,Dr. Sharma,Emergency,19,294343.0,Self-Pay,No
+FOR-10646,57,Female,Neurology,Dr. Sharma,Emergency,10,75038.0,Star Health,No
+FOR-10647,75,Male,Orthopedics,Dr. Reddy,Elective,15,72786.0,Star Health,No
+FOR-10648,12,Male,Orthopedics,Dr. Gupta,Elective,3,386780.0,Self-Pay,No
+FOR-10649,74,Male,Orthopedics,Dr. Verma,Urgent,6,251042.0,Star Health,No
+FOR-10650,16,Female,Neurology,Dr. Sharma,Emergency,12,326438.0,Star Health,No
+FOR-10651,72,Male,Orthopedics,Dr. Verma,Elective,15,224087.0,Self-Pay,No
+FOR-10652,76,Male,Orthopedics,Dr. Reddy,Emergency,6,180250.0,Star Health,No
+FOR-10653,24,Female,Pediatrics,Dr. Gupta,Emergency,13,420881.0,HDFC Ergo,No
+FOR-10654,28,Male,Cardiology,Dr. Gupta,Elective,19,277678.0,HDFC Ergo,No
+FOR-10655,8,Male,Oncology,Dr. Gupta,Elective,3,368972.0,Max Bupa,Yes
+FOR-10656,36,Male,Cardiology,Dr. Reddy,Elective,8,313276.0,Star Health,Yes
+FOR-10657,8,Female,Pediatrics,Dr. Mishra,Urgent,8,271139.0,Max Bupa,No
+FOR-10658,58,Female,Oncology,Dr. Mishra,Elective,15,313254.0,HDFC Ergo,No
+FOR-10659,60,Female,Orthopedics,Dr. Verma,Urgent,4,204826.0,HDFC Ergo,No
+FOR-10660,50,Female,Pediatrics,Dr. Mishra,Urgent,19,340724.0,HDFC Ergo,No
+FOR-10661,28,Female,Orthopedics,Dr. Mishra,Elective,3,430685.0,Star Health,No
+FOR-10662,41,Female,Neurology,Dr. Gupta,Urgent,13,341160.0,Star Health,No
+FOR-10663,64,Female,Pediatrics,Dr. Gupta,Elective,8,61233.0,HDFC Ergo,No
+FOR-10664,27,Male,Neurology,Dr. Verma,Emergency,16,407007.0,Max Bupa,No
+FOR-10665,63,Male,Pediatrics,Dr. Sharma,Elective,13,212780.0,Max Bupa,No
+FOR-10666,17,Female,Pediatrics,Dr. Verma,Emergency,3,271139.0,Self-Pay,No
+FOR-10667,73,Male,Neurology,Dr. Verma,Elective,16,239522.0,HDFC Ergo,No
+FOR-10668,33,Male,Oncology,Dr. Reddy,Elective,9,494653.0,Max Bupa,No
+FOR-10669,84,Female,Cardiology,Dr. Reddy,Emergency,14,121311.0,HDFC Ergo,No
+FOR-10670,77,Male,Orthopedics,Dr. Verma,Emergency,13,49409.0,Max Bupa,No
+FOR-10671,29,Male,Pediatrics,Dr. Verma,Urgent,7,261231.0,Self-Pay,No
+FOR-10672,13,Male,Orthopedics,Dr. Verma,Elective,15,427540.0,Self-Pay,Yes
+FOR-10673,46,Male,Neurology,Dr. Mishra,Emergency,7,416954.0,HDFC Ergo,No
+FOR-10674,35,Male,Orthopedics,Dr. Reddy,Elective,6,301198.0,Max Bupa,No
+FOR-10675,6,Female,Neurology,Dr. Verma,Elective,2,44709.0,Star Health,No
+FOR-10676,82,Female,Orthopedics,Dr. Gupta,Elective,9,124321.0,Self-Pay,No
+FOR-10677,69,Female,Cardiology,Dr. Gupta,Urgent,17,493859.0,HDFC Ergo,No
+FOR-10678,47,Male,Cardiology,Dr. Mishra,Elective,5,15363.0,HDFC Ergo,No
+FOR-10679,25,Female,Cardiology,Dr. Mishra,Emergency,12,287502.0,Max Bupa,No
+FOR-10680,66,Male,Cardiology,Dr. Sharma,Urgent,1,411456.0,HDFC Ergo,No
+FOR-10681,10,Male,Cardiology,Dr. Sharma,Urgent,10,480417.0,Self-Pay,No
+FOR-10682,56,Male,Cardiology,Dr. Sharma,Emergency,11,60689.0,HDFC Ergo,Yes
+FOR-10683,30,Male,Neurology,Dr. Mishra,Emergency,16,279080.0,HDFC Ergo,Yes
+FOR-10684,5,Female,Pediatrics,Dr. Mishra,Emergency,14,389416.0,Star Health,No
+FOR-10685,33,Female,Orthopedics,Dr. Mishra,Elective,8,106074.0,Star Health,No
+FOR-10686,65,Male,Cardiology,Dr. Gupta,Elective,17,190037.0,Self-Pay,No
+FOR-10687,18,Female,Neurology,Dr. Mishra,Elective,18,223606.0,Max Bupa,No
+FOR-10688,49,Male,Neurology,Dr. Gupta,Urgent,12,15882.0,Star Health,No
+FOR-10689,11,Female,Neurology,Dr. Sharma,Elective,17,428440.0,Max Bupa,No
+FOR-10690,85,Female,Pediatrics,Dr. Sharma,Emergency,14,382371.0,Self-Pay,No
+FOR-10691,26,Male,Orthopedics,Dr. Sharma,Emergency,16,269822.0,Star Health,No
+FOR-10692,63,Female,Pediatrics,Dr. Verma,Elective,14,140865.0,Max Bupa,No
+FOR-10693,89,Male,Oncology,Dr. Verma,Emergency,9,138745.0,Star Health,No
+FOR-10694,86,Female,Neurology,Dr. Reddy,Elective,4,439041.0,Self-Pay,No
+FOR-10695,59,Male,Oncology,Dr. Reddy,Urgent,11,478956.0,Self-Pay,No
+FOR-10696,27,Male,Cardiology,Dr. Reddy,Emergency,6,43885.0,Star Health,No
+FOR-10697,49,Female,Cardiology,Dr. Verma,Elective,15,186128.0,Max Bupa,Yes
+FOR-10698,77,Female,Pediatrics,Dr. Verma,Elective,5,411419.0,HDFC Ergo,No
+FOR-10699,33,Male,Orthopedics,Dr. Reddy,Elective,11,206313.0,HDFC Ergo,No
+FOR-10700,1,Female,Oncology,Dr. Reddy,Emergency,18,410460.0,Star Health,No
+FOR-10701,21,Female,Orthopedics,Dr. Mishra,Elective,13,375466.0,Max Bupa,No
+FOR-10702,55,Male,Pediatrics,Dr. Reddy,Emergency,11,345763.0,HDFC Ergo,No
+FOR-10703,6,Male,Cardiology,Dr. Mishra,Urgent,14,36584.0,Self-Pay,No
+FOR-10704,81,Female,Orthopedics,Dr. Gupta,Emergency,18,285665.0,Max Bupa,No
+FOR-10705,69,Male,Orthopedics,Dr. Verma,Elective,19,196089.0,HDFC Ergo,No
+FOR-10706,5,Male,Cardiology,Dr. Reddy,Elective,15,310685.0,Max Bupa,No
+FOR-10707,3,Male,Oncology,Dr. Verma,Urgent,9,44063.0,Star Health,No
+FOR-10708,53,Female,Cardiology,Dr. Verma,Emergency,8,85268.0,Max Bupa,No
+FOR-10709,23,Female,Orthopedics,Dr. Verma,Emergency,1,271306.0,HDFC Ergo,No
+FOR-10710,53,Male,Oncology,Dr. Gupta,Emergency,4,141218.0,Star Health,Yes
+FOR-10711,37,Female,Oncology,Dr. Sharma,Emergency,14,395350.0,Max Bupa,No
+FOR-10712,74,Male,Cardiology,Dr. Reddy,Emergency,2,473168.0,Self-Pay,No
+FOR-10713,74,Female,Orthopedics,Dr. Sharma,Elective,16,239126.0,HDFC Ergo,No
+FOR-10714,83,Male,Pediatrics,Dr. Sharma,Emergency,3,185635.0,Star Health,No
+FOR-10715,17,Male,Orthopedics,Dr. Sharma,Emergency,8,185824.0,Max Bupa,No
+FOR-10716,85,Female,Neurology,Dr. Verma,Urgent,6,241305.0,Self-Pay,No
+FOR-10717,78,Male,Pediatrics,Dr. Mishra,Emergency,16,410783.0,HDFC Ergo,Yes
+FOR-10718,73,Female,Oncology,Dr. Verma,Emergency,16,424337.0,Self-Pay,No
+FOR-10719,1,Female,Pediatrics,Dr. Verma,Emergency,7,409890.0,Max Bupa,No
+FOR-10720,51,Male,Oncology,Dr. Sharma,Urgent,13,91411.0,Max Bupa,No
+FOR-10721,45,Male,Oncology,Dr. Verma,Emergency,13,124876.0,Star Health,No
+FOR-10722,77,Female,Pediatrics,Dr. Sharma,Urgent,5,474491.0,Self-Pay,No
+FOR-10723,4,Male,Oncology,Dr. Mishra,Elective,18,213153.0,Star Health,No
+FOR-10724,62,Male,Oncology,Dr. Reddy,Emergency,15,175212.0,HDFC Ergo,No
+FOR-10725,65,Male,Neurology,Dr. Sharma,Urgent,18,155399.0,Star Health,Yes
+FOR-10726,32,Male,Orthopedics,Dr. Mishra,Emergency,2,478879.0,HDFC Ergo,No
+FOR-10727,34,Male,Orthopedics,Dr. Reddy,Emergency,10,279682.0,Max Bupa,No
+FOR-10728,72,Female,Neurology,Dr. Gupta,Urgent,13,38004.0,Max Bupa,Yes
+FOR-10729,39,Female,Pediatrics,Dr. Sharma,Elective,18,253441.0,Self-Pay,No
+FOR-10730,26,Male,Cardiology,Dr. Sharma,Elective,15,396387.0,HDFC Ergo,No
+FOR-10731,34,Male,Cardiology,Dr. Gupta,Emergency,12,257599.0,Max Bupa,No
+FOR-10732,54,Male,Cardiology,Dr. Gupta,Elective,15,463013.0,Self-Pay,No
+FOR-10733,3,Female,Neurology,Dr. Sharma,Elective,13,204167.0,Self-Pay,No
+FOR-10734,50,Male,Neurology,Dr. Gupta,Emergency,18,421965.0,Star Health,No
+FOR-10735,12,Female,Oncology,Dr. Verma,Emergency,15,340361.0,Self-Pay,No
+FOR-10736,65,Female,Cardiology,Dr. Reddy,Emergency,11,257599.0,Max Bupa,No
+FOR-10737,54,Female,Pediatrics,Dr. Reddy,Emergency,19,286189.0,Star Health,Yes
+FOR-10738,5,Male,Pediatrics,Dr. Reddy,Urgent,3,297260.0,HDFC Ergo,No
+FOR-10739,57,Female,Cardiology,Dr. Verma,Elective,7,33667.0,HDFC Ergo,No
+FOR-10740,17,Male,Cardiology,Dr. Gupta,Urgent,14,352201.0,Max Bupa,No
+FOR-10741,47,Female,Cardiology,Dr. Mishra,Emergency,14,89205.0,Max Bupa,No
+FOR-10742,23,Male,Neurology,Dr. Gupta,Elective,13,42302.0,Star Health,No
+FOR-10743,79,Female,Neurology,Dr. Sharma,Emergency,12,419499.0,Star Health,No
+FOR-10744,85,Male,Neurology,Dr. Reddy,Emergency,9,177007.0,Max Bupa,No
+FOR-10745,14,Female,Orthopedics,Dr. Gupta,Emergency,1,87534.0,Max Bupa,No
+FOR-10746,66,Male,Pediatrics,Dr. Mishra,Emergency,19,240414.0,HDFC Ergo,No
+FOR-10747,75,Male,Pediatrics,Dr. Sharma,Elective,11,177696.0,HDFC Ergo,No
+FOR-10748,51,Male,Oncology,Dr. Verma,Urgent,19,28440.0,HDFC Ergo,Yes
+FOR-10749,38,Male,Neurology,Dr. Verma,Elective,18,388145.0,Max Bupa,No
+FOR-10750,64,Female,Orthopedics,Dr. Mishra,Emergency,12,323645.0,Self-Pay,No
+FOR-10751,38,Female,Orthopedics,Dr. Sharma,Emergency,1,495549.0,Max Bupa,No
+FOR-10752,50,Male,Pediatrics,Dr. Reddy,Emergency,19,409485.0,Max Bupa,No
+FOR-10753,82,Female,Neurology,Dr. Gupta,Elective,17,285012.0,HDFC Ergo,No
+FOR-10754,30,Male,Oncology,Dr. Sharma,Elective,5,176323.0,Max Bupa,Yes
+FOR-10755,79,Male,Neurology,Dr. Verma,Urgent,3,355053.0,Star Health,Yes
+FOR-10756,51,Female,Cardiology,Dr. Mishra,Emergency,2,99523.0,Max Bupa,Yes
+FOR-10757,63,Male,Neurology,Dr. Mishra,Elective,3,184801.0,Max Bupa,No
+FOR-10758,52,Male,Cardiology,Dr. Gupta,Elective,8,30734.0,Max Bupa,No
+FOR-10759,38,Female,Cardiology,Dr. Mishra,Elective,16,188501.0,Max Bupa,Yes
+FOR-10760,88,Male,Oncology,Dr. Mishra,Elective,6,187409.0,Self-Pay,No
+FOR-10761,79,Male,Pediatrics,Dr. Sharma,Elective,13,448541.0,Max Bupa,No
+FOR-10762,30,Male,Neurology,Dr. Reddy,Elective,16,360744.0,Star Health,No
+FOR-10763,51,Male,Cardiology,Dr. Gupta,Emergency,16,470730.0,Star Health,No
+FOR-10764,81,Female,Neurology,Dr. Sharma,Elective,3,285577.0,Max Bupa,No
+FOR-10765,5,Female,Pediatrics,Dr. Reddy,Emergency,13,155183.0,HDFC Ergo,No
+FOR-10766,29,Female,Pediatrics,Dr. Sharma,Elective,14,118986.0,Self-Pay,No
+FOR-10767,4,Male,Orthopedics,Dr. Sharma,Elective,8,340897.0,Max Bupa,No
+FOR-10768,10,Male,Pediatrics,Dr. Mishra,Elective,12,128783.0,Max Bupa,No
+FOR-10769,56,Female,Oncology,Dr. Reddy,Urgent,8,226655.0,Max Bupa,No
+FOR-10770,17,Male,Cardiology,Dr. Gupta,Urgent,9,481836.0,HDFC Ergo,No
+FOR-10771,74,Male,Orthopedics,Dr. Gupta,Urgent,1,298895.0,HDFC Ergo,No
+FOR-10772,17,Male,Oncology,Dr. Reddy,Elective,6,162525.0,HDFC Ergo,No
+FOR-10773,84,Male,Neurology,Dr. Mishra,Elective,19,231916.0,Self-Pay,No
+FOR-10774,88,Female,Cardiology,Dr. Verma,Elective,11,447184.0,Star Health,No
+FOR-10775,69,Female,Pediatrics,Dr. Sharma,Urgent,11,176149.0,Self-Pay,No
+FOR-10776,34,Female,Cardiology,Dr. Mishra,Elective,13,254654.0,HDFC Ergo,No
+FOR-10777,6,Male,Neurology,Dr. Reddy,Urgent,11,442991.0,Star Health,No
+FOR-10778,53,Female,Orthopedics,Dr. Sharma,Urgent,18,279682.0,Star Health,No
+FOR-10779,66,Female,Orthopedics,Dr. Gupta,Elective,15,279682.0,HDFC Ergo,No
+FOR-10780,77,Male,Orthopedics,Dr. Verma,Emergency,1,192169.0,HDFC Ergo,No
+FOR-10781,43,Male,Pediatrics,Dr. Gupta,Emergency,7,301647.0,Self-Pay,No
+FOR-10782,75,Female,Oncology,Dr. Reddy,Urgent,13,148851.0,HDFC Ergo,No
+FOR-10783,23,Female,Oncology,Dr. Sharma,Emergency,12,363984.0,Star Health,No
+FOR-10784,55,Female,Cardiology,Dr. Reddy,Urgent,18,146827.0,Max Bupa,No
+FOR-10785,80,Female,Pediatrics,Dr. Sharma,Elective,19,316407.0,HDFC Ergo,No
+FOR-10786,75,Male,Orthopedics,Dr. Mishra,Elective,15,385635.0,HDFC Ergo,No
+FOR-10787,16,Female,Orthopedics,Dr. Verma,Urgent,8,332231.0,Self-Pay,No
+FOR-10788,8,Female,Neurology,Dr. Mishra,Elective,19,255489.0,Self-Pay,Yes
+FOR-10789,4,Male,Neurology,Dr. Mishra,Elective,10,66482.0,HDFC Ergo,No
+FOR-10790,4,Female,Orthopedics,Dr. Reddy,Elective,7,463073.0,Star Health,No
+FOR-10791,56,Male,Orthopedics,Dr. Verma,Emergency,18,137989.0,Star Health,No
+FOR-10792,25,Male,Pediatrics,Dr. Sharma,Elective,16,425616.0,Max Bupa,No
+FOR-10793,67,Male,Oncology,Dr. Sharma,Emergency,6,317259.0,HDFC Ergo,No
+FOR-10794,67,Female,Neurology,Dr. Gupta,Urgent,9,291393.0,Self-Pay,Yes
+FOR-10795,27,Female,Oncology,Dr. Sharma,Urgent,13,259255.0,Star Health,No
+FOR-10796,32,Male,Pediatrics,Dr. Reddy,Emergency,8,455041.0,Max Bupa,No
+FOR-10797,50,Female,Orthopedics,Dr. Mishra,Elective,16,125361.0,HDFC Ergo,No
+FOR-10798,61,Female,Oncology,Dr. Mishra,Elective,13,301744.0,Star Health,No
+FOR-10799,51,Male,Orthopedics,Dr. Mishra,Emergency,13,314850.0,HDFC Ergo,No
+FOR-10800,19,Male,Orthopedics,Dr. Verma,Urgent,17,296366.0,HDFC Ergo,No
+FOR-10801,21,Female,Cardiology,Dr. Sharma,Emergency,5,376185.0,Star Health,Yes
+FOR-10802,5,Male,Oncology,Dr. Reddy,Emergency,17,381648.0,Star Health,No
+FOR-10803,82,Female,Oncology,Dr. Verma,Elective,9,56139.0,Star Health,No
+FOR-10804,42,Female,Orthopedics,Dr. Gupta,Elective,2,129919.0,HDFC Ergo,No
+FOR-10805,61,Female,Pediatrics,Dr. Reddy,Elective,18,262677.0,HDFC Ergo,No
+FOR-10806,22,Female,Cardiology,Dr. Reddy,Elective,9,318446.0,Max Bupa,No
+FOR-10807,21,Male,Orthopedics,Dr. Reddy,Elective,6,240756.0,Self-Pay,Yes
+FOR-10808,70,Male,Neurology,Dr. Mishra,Elective,11,364982.0,HDFC Ergo,No
+FOR-10809,1,Male,Neurology,Dr. Reddy,Emergency,6,476375.0,Self-Pay,No
+FOR-10810,5,Male,Cardiology,Dr. Sharma,Emergency,6,154718.0,Star Health,No
+FOR-10811,12,Female,Pediatrics,Dr. Reddy,Emergency,13,159615.0,HDFC Ergo,No
+FOR-10812,46,Female,Orthopedics,Dr. Mishra,Emergency,11,240568.0,Max Bupa,No
+FOR-10813,34,Male,Oncology,Dr. Reddy,Elective,14,168857.0,Max Bupa,No
+FOR-10814,49,Female,Cardiology,Dr. Gupta,Emergency,2,355497.0,Self-Pay,No
+FOR-10815,78,Female,Pediatrics,Dr. Gupta,Emergency,8,439622.0,Star Health,No
+FOR-10816,45,Female,Oncology,Dr. Mishra,Emergency,3,366136.0,Self-Pay,Yes
+FOR-10817,27,Male,Neurology,Dr. Sharma,Urgent,3,328572.0,Star Health,Yes
+FOR-10818,73,Male,Neurology,Dr. Sharma,Urgent,1,38777.0,Max Bupa,No
+FOR-10819,26,Male,Oncology,Dr. Verma,Elective,19,72939.0,Self-Pay,No
+FOR-10820,47,Female,Cardiology,Dr. Mishra,Urgent,18,461242.0,Max Bupa,No
+FOR-10821,86,Male,Neurology,Dr. Reddy,Elective,17,363594.0,Max Bupa,No
+FOR-10822,56,Male,Orthopedics,Dr. Mishra,Elective,13,437769.0,Star Health,No
+FOR-10823,63,Male,Oncology,Dr. Verma,Emergency,3,38548.0,Self-Pay,No
+FOR-10824,48,Male,Oncology,Dr. Mishra,Elective,1,471437.0,Self-Pay,No
+FOR-10825,61,Male,Neurology,Dr. Mishra,Elective,4,445481.0,Max Bupa,No
+FOR-10826,81,Male,Cardiology,Dr. Verma,Elective,13,140549.0,Max Bupa,No
+FOR-10827,26,Female,Orthopedics,Dr. Sharma,Elective,17,448917.0,Star Health,No
+FOR-10828,36,Female,Cardiology,Dr. Reddy,Elective,11,459503.0,HDFC Ergo,No
+FOR-10829,1,Male,Pediatrics,Dr. Verma,Elective,2,152799.0,HDFC Ergo,No
+FOR-10830,8,Male,Pediatrics,Dr. Gupta,Urgent,16,256532.0,Max Bupa,No
+FOR-10831,52,Female,Neurology,Dr. Sharma,Emergency,2,196789.0,HDFC Ergo,Yes
+FOR-10832,79,Female,Neurology,Dr. Gupta,Elective,19,440643.0,HDFC Ergo,No
+FOR-10833,47,Male,Neurology,Dr. Sharma,Elective,19,162764.0,HDFC Ergo,No
+FOR-10834,56,Male,Pediatrics,Dr. Reddy,Elective,16,46625.0,HDFC Ergo,No
+FOR-10835,86,Male,Cardiology,Dr. Reddy,Elective,19,302062.0,Max Bupa,Yes
+FOR-10836,14,Male,Cardiology,Dr. Mishra,Emergency,9,449352.0,HDFC Ergo,No
+FOR-10837,28,Female,Neurology,Dr. Gupta,Elective,1,391970.0,HDFC Ergo,No
+FOR-10838,87,Male,Orthopedics,Dr. Sharma,Emergency,10,129881.0,Star Health,No
+FOR-10839,78,Male,Cardiology,Dr. Reddy,Elective,19,460625.0,Max Bupa,No
+FOR-10840,88,Male,Pediatrics,Dr. Verma,Elective,1,292721.0,Self-Pay,No
+FOR-10841,2,Male,Oncology,Dr. Reddy,Elective,2,362299.0,Self-Pay,Yes
+FOR-10842,26,Female,Oncology,Dr. Verma,Emergency,16,126776.0,Star Health,No
+FOR-10843,14,Female,Oncology,Dr. Sharma,Elective,12,376390.0,Star Health,No
+FOR-10844,59,Female,Orthopedics,Dr. Reddy,Emergency,8,248996.0,Max Bupa,No
+FOR-10845,56,Male,Neurology,Dr. Reddy,Urgent,18,272831.0,Self-Pay,No
+FOR-10846,7,Male,Pediatrics,Dr. Sharma,Urgent,2,227803.0,HDFC Ergo,No
+FOR-10847,3,Female,Orthopedics,Dr. Reddy,Urgent,13,173761.0,Star Health,No
+FOR-10848,23,Male,Pediatrics,Dr. Verma,Elective,6,157226.0,Self-Pay,No
+FOR-10849,18,Male,Pediatrics,Dr. Reddy,Elective,6,372092.0,Max Bupa,No
+FOR-10850,38,Female,Neurology,Dr. Gupta,Emergency,9,36341.0,HDFC Ergo,No
+FOR-10851,15,Female,Oncology,Dr. Mishra,Emergency,16,374698.0,Max Bupa,No
+FOR-10852,64,Female,Neurology,Dr. Verma,Elective,11,220753.0,Star Health,No
+FOR-10853,89,Female,Orthopedics,Dr. Gupta,Elective,7,384942.0,Self-Pay,No
+FOR-10854,28,Male,Orthopedics,Dr. Sharma,Urgent,10,323474.0,Self-Pay,No
+FOR-10855,74,Male,Orthopedics,Dr. Verma,Emergency,10,264141.0,Self-Pay,No
+FOR-10856,39,Female,Neurology,Dr. Mishra,Urgent,18,364903.0,Self-Pay,No
+FOR-10857,57,Male,Pediatrics,Dr. Mishra,Elective,9,214488.0,HDFC Ergo,No
+FOR-10858,17,Female,Pediatrics,Dr. Sharma,Elective,15,271139.0,HDFC Ergo,Yes
+FOR-10859,86,Female,Cardiology,Dr. Sharma,Emergency,4,363951.0,Max Bupa,No
+FOR-10860,44,Male,Orthopedics,Dr. Verma,Emergency,8,310457.0,HDFC Ergo,No
+FOR-10861,25,Female,Pediatrics,Dr. Reddy,Elective,9,324044.0,Star Health,Yes
+FOR-10862,17,Male,Cardiology,Dr. Sharma,Elective,13,93840.0,Star Health,No
+FOR-10863,13,Male,Pediatrics,Dr. Reddy,Emergency,9,180767.0,Self-Pay,No
+FOR-10864,84,Male,Orthopedics,Dr. Gupta,Elective,4,176297.0,Star Health,No
+FOR-10865,25,Male,Oncology,Dr. Mishra,Urgent,17,363216.0,Max Bupa,No
+FOR-10866,68,Female,Orthopedics,Dr. Reddy,Urgent,16,373511.0,HDFC Ergo,No
+FOR-10867,10,Male,Neurology,Dr. Mishra,Urgent,15,64156.0,HDFC Ergo,No
+FOR-10868,67,Female,Pediatrics,Dr. Reddy,Emergency,3,223281.0,HDFC Ergo,No
+FOR-10869,18,Female,Pediatrics,Dr. Gupta,Emergency,5,102453.0,Star Health,No
+FOR-10870,86,Female,Neurology,Dr. Sharma,Elective,5,173901.0,HDFC Ergo,Yes
+FOR-10871,34,Female,Neurology,Dr. Gupta,Elective,15,489124.0,Self-Pay,No
+FOR-10872,8,Male,Oncology,Dr. Sharma,Emergency,18,40938.0,Self-Pay,No
+FOR-10873,40,Male,Pediatrics,Dr. Sharma,Emergency,15,74164.0,Self-Pay,No
+FOR-10874,83,Female,Pediatrics,Dr. Mishra,Elective,2,462746.0,Star Health,No
+FOR-10875,42,Female,Oncology,Dr. Gupta,Emergency,13,214271.0,HDFC Ergo,No
+FOR-10876,41,Male,Cardiology,Dr. Reddy,Emergency,4,75282.0,Star Health,No
+FOR-10877,6,Female,Oncology,Dr. Gupta,Emergency,10,324945.0,HDFC Ergo,No
+FOR-10878,52,Male,Orthopedics,Dr. Mishra,Emergency,13,417681.0,Max Bupa,No
+FOR-10879,26,Female,Pediatrics,Dr. Sharma,Elective,10,280470.0,Max Bupa,No
+FOR-10880,64,Male,Neurology,Dr. Mishra,Elective,9,411875.0,Star Health,Yes
+FOR-10881,59,Female,Orthopedics,Dr. Verma,Elective,8,468505.0,Self-Pay,No
+FOR-10882,56,Female,Pediatrics,Dr. Verma,Emergency,3,173666.0,Star Health,No
+FOR-10883,59,Male,Oncology,Dr. Reddy,Emergency,16,130819.0,Self-Pay,No
+FOR-10884,70,Female,Orthopedics,Dr. Mishra,Elective,14,281907.0,HDFC Ergo,No
+FOR-10885,33,Female,Pediatrics,Dr. Reddy,Elective,9,496873.0,Self-Pay,No
+FOR-10886,53,Male,Cardiology,Dr. Reddy,Elective,11,156900.0,Self-Pay,No
+FOR-10887,22,Female,Cardiology,Dr. Verma,Emergency,3,324732.0,HDFC Ergo,No
+FOR-10888,21,Male,Neurology,Dr. Reddy,Urgent,5,288365.0,Max Bupa,No
+FOR-10889,70,Male,Pediatrics,Dr. Verma,Emergency,10,419427.0,HDFC Ergo,No
+FOR-10890,70,Female,Cardiology,Dr. Sharma,Elective,13,28569.0,Star Health,No
+FOR-10891,4,Female,Oncology,Dr. Mishra,Elective,4,242966.0,Star Health,No
+FOR-10892,75,Female,Pediatrics,Dr. Reddy,Elective,13,52860.0,Star Health,No
+FOR-10893,62,Female,Oncology,Dr. Verma,Emergency,12,217630.0,Star Health,No
+FOR-10894,62,Female,Oncology,Dr. Gupta,Elective,5,322481.0,Star Health,No
+FOR-10895,24,Female,Cardiology,Dr. Reddy,Elective,10,460527.0,Max Bupa,No
+FOR-10896,55,Female,Pediatrics,Dr. Sharma,Emergency,9,159587.0,Max Bupa,No
+FOR-10897,9,Male,Orthopedics,Dr. Sharma,Emergency,7,86695.0,Self-Pay,No
+FOR-10898,3,Female,Cardiology,Dr. Gupta,Emergency,2,268078.0,Star Health,No
+FOR-10899,31,Male,Cardiology,Dr. Verma,Urgent,7,257599.0,HDFC Ergo,No
+FOR-10900,40,Female,Pediatrics,Dr. Reddy,Emergency,8,271139.0,Star Health,Yes
+FOR-10901,36,Female,Pediatrics,Dr. Verma,Urgent,7,495443.0,Max Bupa,No
+FOR-10902,24,Male,Oncology,Dr. Sharma,Elective,14,170976.0,Star Health,No
+FOR-10903,6,Female,Pediatrics,Dr. Verma,Urgent,19,271139.0,Max Bupa,No
+FOR-10904,66,Female,Oncology,Dr. Sharma,Urgent,5,320934.0,Self-Pay,No
+FOR-10905,84,Male,Cardiology,Dr. Verma,Elective,18,345724.0,Self-Pay,No
+FOR-10906,75,Female,Neurology,Dr. Gupta,Emergency,12,483364.0,Self-Pay,No
+FOR-10907,4,Female,Orthopedics,Dr. Mishra,Emergency,17,20636.0,Max Bupa,No
+FOR-10908,79,Female,Cardiology,Dr. Gupta,Emergency,13,276578.0,Star Health,No
+FOR-10909,6,Male,Pediatrics,Dr. Gupta,Elective,2,354273.0,Star Health,No
+FOR-10910,51,Female,Orthopedics,Dr. Mishra,Emergency,13,411108.0,HDFC Ergo,No
+FOR-10911,62,Female,Neurology,Dr. Mishra,Emergency,7,255489.0,Max Bupa,No
+FOR-10912,57,Female,Neurology,Dr. Reddy,Elective,10,282956.0,HDFC Ergo,No
+FOR-10913,66,Female,Oncology,Dr. Reddy,Urgent,6,242693.0,Self-Pay,No
+FOR-10914,79,Male,Orthopedics,Dr. Gupta,Emergency,3,15654.0,Star Health,Yes
+FOR-10915,75,Male,Oncology,Dr. Gupta,Emergency,3,69633.0,Max Bupa,No
+FOR-10916,8,Female,Cardiology,Dr. Sharma,Emergency,18,32143.0,HDFC Ergo,Yes
+FOR-10917,26,Female,Orthopedics,Dr. Sharma,Urgent,11,70934.0,HDFC Ergo,No
+FOR-10918,51,Male,Cardiology,Dr. Reddy,Elective,5,344478.0,HDFC Ergo,No
+FOR-10919,45,Male,Oncology,Dr. Reddy,Emergency,19,118463.0,Star Health,No
+FOR-10920,44,Female,Orthopedics,Dr. Sharma,Emergency,19,140851.0,Star Health,No
+FOR-10921,5,Male,Oncology,Dr. Sharma,Emergency,15,44087.0,Star Health,No
+FOR-10922,70,Female,Orthopedics,Dr. Verma,Emergency,16,157690.0,Max Bupa,No
+FOR-10923,26,Male,Oncology,Dr. Verma,Urgent,9,285590.0,Star Health,No
+FOR-10924,68,Male,Neurology,Dr. Sharma,Elective,4,495398.0,Max Bupa,No
+FOR-10925,19,Male,Oncology,Dr. Verma,Elective,15,379271.0,HDFC Ergo,No
+FOR-10926,84,Male,Neurology,Dr. Mishra,Urgent,12,326011.0,HDFC Ergo,No
+FOR-10927,20,Female,Oncology,Dr. Reddy,Emergency,3,459244.0,Self-Pay,No
+FOR-10928,12,Male,Orthopedics,Dr. Reddy,Elective,14,337245.0,Star Health,No
+FOR-10929,47,Male,Orthopedics,Dr. Sharma,Urgent,17,173272.0,HDFC Ergo,No
+FOR-10930,1,Female,Orthopedics,Dr. Gupta,Emergency,19,241179.0,Star Health,Yes
+FOR-10931,14,Male,Pediatrics,Dr. Sharma,Elective,6,365218.0,Max Bupa,No
+FOR-10932,64,Male,Cardiology,Dr. Verma,Emergency,4,257599.0,HDFC Ergo,No
+FOR-10933,38,Female,Orthopedics,Dr. Gupta,Emergency,7,232508.0,Star Health,No
+FOR-10934,37,Male,Neurology,Dr. Verma,Emergency,19,133422.0,HDFC Ergo,No
+FOR-10935,11,Female,Orthopedics,Dr. Mishra,Elective,17,365036.0,HDFC Ergo,No
+FOR-10936,77,Female,Pediatrics,Dr. Verma,Elective,16,234631.0,Star Health,No
+FOR-10937,3,Female,Neurology,Dr. Mishra,Urgent,15,397188.0,HDFC Ergo,No
+FOR-10938,33,Female,Pediatrics,Dr. Mishra,Elective,8,54148.0,HDFC Ergo,Yes
+FOR-10939,6,Male,Neurology,Dr. Verma,Urgent,19,360072.0,HDFC Ergo,No
+FOR-10940,50,Female,Oncology,Dr. Verma,Urgent,8,166770.0,HDFC Ergo,No
+FOR-10941,10,Male,Cardiology,Dr. Mishra,Emergency,18,450686.0,Max Bupa,No
+FOR-10942,5,Male,Cardiology,Dr. Gupta,Elective,16,328804.0,HDFC Ergo,No
+FOR-10943,23,Male,Pediatrics,Dr. Mishra,Emergency,19,462126.0,Self-Pay,No
+FOR-10944,10,Male,Cardiology,Dr. Reddy,Elective,10,312594.0,HDFC Ergo,No
+FOR-10945,44,Male,Pediatrics,Dr. Mishra,Urgent,17,202535.0,Star Health,No
+FOR-10946,2,Male,Pediatrics,Dr. Gupta,Emergency,13,310901.0,Self-Pay,No
+FOR-10947,13,Male,Pediatrics,Dr. Reddy,Elective,13,93012.0,Max Bupa,Yes
+FOR-10948,40,Male,Cardiology,Dr. Sharma,Elective,7,383894.0,Self-Pay,No
+FOR-10949,2,Male,Pediatrics,Dr. Sharma,Elective,10,404187.0,Self-Pay,No
+FOR-10950,84,Male,Cardiology,Dr. Gupta,Emergency,2,478463.0,Self-Pay,No
+FOR-10951,65,Female,Pediatrics,Dr. Mishra,Emergency,4,480231.0,Star Health,No
+FOR-10952,63,Female,Orthopedics,Dr. Verma,Emergency,6,439606.0,Star Health,No
+FOR-10953,73,Female,Pediatrics,Dr. Gupta,Emergency,18,71116.0,Star Health,No
+FOR-10954,17,Male,Neurology,Dr. Reddy,Emergency,6,159233.0,Max Bupa,No
+FOR-10955,9,Female,Pediatrics,Dr. Reddy,Elective,17,47152.0,Star Health,No
+FOR-10956,75,Female,Oncology,Dr. Sharma,Emergency,14,488387.0,Star Health,No
+FOR-10957,15,Female,Pediatrics,Dr. Reddy,Urgent,11,121379.0,Self-Pay,No
+FOR-10958,24,Male,Neurology,Dr. Gupta,Elective,19,241905.0,Star Health,No
+FOR-10959,38,Male,Neurology,Dr. Reddy,Elective,2,35836.0,HDFC Ergo,No
+FOR-10960,35,Male,Cardiology,Dr. Gupta,Elective,3,236439.0,Star Health,Yes
+FOR-10961,49,Male,Orthopedics,Dr. Verma,Elective,11,474759.0,Max Bupa,Yes
+FOR-10962,69,Female,Pediatrics,Dr. Sharma,Urgent,6,201720.0,Max Bupa,No
+FOR-10963,62,Female,Cardiology,Dr. Reddy,Emergency,14,172403.0,HDFC Ergo,No
+FOR-10964,60,Female,Orthopedics,Dr. Gupta,Emergency,19,279682.0,Max Bupa,No
+FOR-10965,50,Female,Pediatrics,Dr. Mishra,Elective,16,346588.0,Max Bupa,No
+FOR-10966,78,Male,Oncology,Dr. Sharma,Emergency,7,108109.0,Self-Pay,No
+FOR-10967,75,Male,Pediatrics,Dr. Verma,Emergency,8,165259.0,HDFC Ergo,No
+FOR-10968,9,Male,Neurology,Dr. Gupta,Emergency,19,158029.0,Self-Pay,No
+FOR-10969,34,Female,Neurology,Dr. Verma,Emergency,16,412595.0,Self-Pay,Yes
+FOR-10970,76,Male,Oncology,Dr. Verma,Elective,7,436175.0,Star Health,No
+FOR-10971,35,Male,Cardiology,Dr. Reddy,Emergency,9,97018.0,HDFC Ergo,No
+FOR-10972,1,Female,Orthopedics,Dr. Reddy,Urgent,13,138076.0,Star Health,No
+FOR-10973,40,Female,Pediatrics,Dr. Gupta,Elective,1,173177.0,Star Health,No
+FOR-10974,64,Male,Neurology,Dr. Mishra,Elective,8,409093.0,Self-Pay,No
+FOR-10975,22,Male,Cardiology,Dr. Gupta,Elective,4,194425.0,Max Bupa,No
+FOR-10976,60,Male,Oncology,Dr. Mishra,Urgent,3,360932.0,HDFC Ergo,Yes
+FOR-10977,64,Male,Neurology,Dr. Verma,Emergency,3,374014.0,Max Bupa,No
+FOR-10978,72,Male,Oncology,Dr. Sharma,Urgent,13,230657.0,Self-Pay,No
+FOR-10979,11,Male,Pediatrics,Dr. Gupta,Elective,8,360452.0,Self-Pay,No
+FOR-10980,14,Female,Orthopedics,Dr. Gupta,Elective,7,459783.0,Self-Pay,No
+FOR-10981,60,Female,Neurology,Dr. Mishra,Elective,1,335057.0,Self-Pay,No
+FOR-10982,30,Female,Neurology,Dr. Verma,Emergency,16,17637.0,Self-Pay,Yes
+FOR-10983,35,Male,Pediatrics,Dr. Verma,Elective,6,480994.0,Self-Pay,No
+FOR-10984,85,Female,Cardiology,Dr. Mishra,Elective,7,319169.0,Max Bupa,No
+FOR-10985,37,Male,Orthopedics,Dr. Verma,Emergency,12,252989.0,Star Health,No
+FOR-10986,5,Male,Neurology,Dr. Reddy,Elective,9,247259.0,Max Bupa,Yes
+FOR-10987,83,Female,Orthopedics,Dr. Sharma,Emergency,11,376652.0,HDFC Ergo,No
+FOR-10988,78,Male,Neurology,Dr. Gupta,Emergency,10,97464.0,Max Bupa,No
+FOR-10989,26,Male,Orthopedics,Dr. Sharma,Emergency,1,305886.0,Self-Pay,No
+FOR-10990,62,Female,Oncology,Dr. Gupta,Emergency,18,26831.0,Max Bupa,No
+FOR-10991,4,Female,Neurology,Dr. Reddy,Elective,4,128768.0,Star Health,No
+FOR-10992,89,Female,Orthopedics,Dr. Verma,Emergency,5,279682.0,HDFC Ergo,No
+FOR-10993,42,Male,Cardiology,Dr. Mishra,Urgent,9,362236.0,Max Bupa,No
+FOR-10994,89,Female,Oncology,Dr. Reddy,Elective,17,368023.0,Star Health,No
+FOR-10995,18,Female,Oncology,Dr. Sharma,Emergency,3,365514.0,Max Bupa,No
+FOR-10996,40,Male,Cardiology,Dr. Mishra,Elective,16,403681.0,HDFC Ergo,No
+FOR-10997,72,Female,Orthopedics,Dr. Verma,Urgent,5,454978.0,Max Bupa,No
+FOR-10998,39,Female,Pediatrics,Dr. Reddy,Elective,16,119824.0,Self-Pay,No
+FOR-10999,14,Female,Cardiology,Dr. Mishra,Emergency,3,103741.0,Max Bupa,No
